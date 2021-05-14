@@ -42,7 +42,11 @@ settings:
         u: scroll-page 0 -1
         x: tab-close
   content.blocking.enabled:
+    '*://*.{namesakecomic.com}/*': false
+    '*://*.{paranatural.net}/*': false
+    '*://*.{questionablecontent.net}/*': false
     '*://*.{wormworldsaga.com}/*': false
+    '*://www.{namesakecomic.com}/*': false
   url.default_page:
     global: about:blank
   url.searchengines:
