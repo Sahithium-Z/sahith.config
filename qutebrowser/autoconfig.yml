@@ -47,6 +47,8 @@ settings:
     '*://*.{questionablecontent.net}/*': false
     '*://*.{wormworldsaga.com}/*': false
     '*://www.{namesakecomic.com}/*': false
+  hints.chars:
+    global: aoeuidnths
   url.default_page:
     global: about:blank
   url.searchengines:

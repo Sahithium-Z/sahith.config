@@ -1820,3 +1820,122 @@ Fri May 14 2021 09:34:03 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [Ap
 Fri May 14 2021 09:34:04 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
 Fri May 14 2021 09:34:04 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
 Fri May 14 2021 09:34:04 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 0.6679999828338623, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24260440, freeMemory: 5713903616, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.95, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:34:24 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:34:24 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:34:24 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:34:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:34:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:34:26 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 2.5119998455047607, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24372840, freeMemory: 5731610624, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:35:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:35:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:35:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:35:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:35:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:35:30 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 4.184000015258789, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24321576, freeMemory: 5700440064, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:35:40 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:35:40 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:35:40 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.2039999961853027, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24403976, freeMemory: 5691330560, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:35:41 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:35:42 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:35:42 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:35:42 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.244999885559082, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24440760, freeMemory: 5692395520, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:35:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:35:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:35:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:35:48 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:35:48 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:35:48 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 2.985999822616577, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24477768, freeMemory: 5730037760, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:35:59 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:35:59 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:35:59 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:36:00 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:36:00 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:36:00 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.252000093460083, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24566400, freeMemory: 5498765312, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:36:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:36:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:36:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:36:21 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:36:21 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [DesktopConfig] setUserProfile 
+Fri May 14 2021 09:36:21 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, name: loggedInWithWebauth, statusCode: undefined, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24524600, freeMemory: 5399535616, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:36:21 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Setting the tenant region to amer 
+Fri May 14 2021 09:36:21 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, name: desktop_tenant_region_set, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24567688, freeMemory: 5397737472, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:36:49 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:36:49 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:37:16 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:37:16 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:37:16 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 63.84999990463257, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24449816, freeMemory: 5477945344, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:37:22 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:37:22 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:37:22 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:37:23 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:37:23 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:37:23 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.2590000629425049, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24506536, freeMemory: 5381292032, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:37:38 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:37:38 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:37:38 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:37:39 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:37:39 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:37:39 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.066999912261963, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24592872, freeMemory: 5370548224, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:37:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:37:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:37:45 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:37:48 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:37:48 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:08 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:38:08 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:38:08 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 22.646000146865845, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24350968, freeMemory: 5336313856, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:38:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:38:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:38:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:22 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:22 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:38:26 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:38:26 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 8.111999988555908, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24544432, freeMemory: 5258379264, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:38:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:38:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:38:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:32 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:38:32 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:38:32 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.9800000190734863, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24617760, freeMemory: 5252505600, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:38:43 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:38:43 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:38:43 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:38:44 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:38:44 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:38:44 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.0920000076293945, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24693272, freeMemory: 5081890816, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:39:01 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:39:01 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:39:01 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:39:03 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:39:03 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:39:03 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.5440001487731934, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24292752, freeMemory: 5015007232, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.96, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:40:29 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:40:29 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:40:29 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:40:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:40:30 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:40:30 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 0.44700002670288086, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24357728, freeMemory: 5627719680, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.97, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:42:04 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:42:04 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:42:04 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:42:05 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:42:05 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:42:05 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 0.40599989891052246, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24293712, freeMemory: 5362819072, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.97, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:42:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:42:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:42:12 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:42:17 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:42:17 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:42:17 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 5.561000108718872, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24413792, freeMemory: 5422178304, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.97, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
+Fri May 14 2021 09:42:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Focusing main window 
+Fri May 14 2021 09:42:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to true 
+Fri May 14 2021 09:42:18 GMT-0700 (Pacific Daylight Time) <11978> -- info -- [AppStateService] [EnableBlueberry] enableBlueberry is defined as false returning : false 
+Fri May 14 2021 09:42:19 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Blur main window 
+Fri May 14 2021 09:42:19 GMT-0700 (Pacific Daylight Time) <11978> -- info -- Is foreground set to false 
+Fri May 14 2021 09:42:19 GMT-0700 (Pacific Daylight Time) <11978> -- event -- eventpdclevel: 2, duration: 1.0199999809265137, name: desktop_foreground_duration, AppInfo.Language: en-US, complianceEnvironmentType: 0, isDataCategorizationEnabled: false, userpdclevel: 0, processMemory: 24447392, freeMemory: 5365899264, clientType: desktop, AppInfo.ClientType: desktop, batterylevel: 0.97, pluggedin: true, Window.Focus: foreground, windowIsVisible: true, Window.Status: systray, UserInfo.TimeZone: -07:00, vdiMode: 0,  
