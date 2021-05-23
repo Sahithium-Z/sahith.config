@@ -9,6 +9,9 @@ settings:
   bindings.commands:
     global:
       normal:
+        ;D: hint images download
+        ;m: hint links spawn mpv {hint-url}
+        A: set -u *://*.{url:host}/* content.blocking.enabled false
         J: tab-focus
         K: search-prev
         L: null
@@ -41,14 +44,36 @@ settings:
         t: scroll down
         u: scroll-page 0 -1
         x: tab-close
+  colors.webpage.darkmode.enabled:
+    global: false
   content.blocking.enabled:
-    '*://*.{namesakecomic.com}/*': false
-    '*://*.{paranatural.net}/*': false
-    '*://*.{questionablecontent.net}/*': false
-    '*://*.{wormworldsaga.com}/*': false
-    '*://www.{namesakecomic.com}/*': false
+    '*://*.bulbapedia.bulbagarden.net/*': false
+    '*://*.dailydot.com/*': false
+    '*://*.namesakecomic.com/*': false
+    '*://*.paranatural.net/*': false
+    '*://*.pleated-jeans.com/*': false
+    '*://*.questionablecontent.net/*': false
+    '*://*.wormworldsaga.com/*': false
+    '*://*.www.casualvillain.com/*': false
+    '*://*.www.howtogeek.com/*': false
+    '*://www.namesakecomic.com/*': false
+    global: true
+  content.headers.user_agent:
+    global: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/74.0.3729.169 Safari/537.36
+  content.media.audio_capture:
+    https://asm.smartmusic.com: true
+  content.notifications.enabled:
+    https://app.wire.com: true
+    https://uploadhaven.com: false
+    https://www.kingminecraftmod.com: false
+    https://www.reddit.com: false
   hints.chars:
     global: aoeuidnths
+  statusbar.show:
+    global: always
+  tabs.show:
+    global: multiple
   url.default_page:
     global: about:blank
   url.searchengines:

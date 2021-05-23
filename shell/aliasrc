@@ -8,7 +8,7 @@
 
 # sudo not required for some system commands
 for x in mount umount sv pacman updatedb su ; do
-	alias $x="sudo $x"
+	alias $x="doas -- $x"
 done
 
 # Verbosity and settings that you pretty much just always are going to want.
@@ -44,8 +44,10 @@ alias \
 	xq="xbps-query" \
 	z="zathura" \
 	s="doas --" \
+	wg="wordgrinder" \
+	rc="reflex-curses" \
 
 alias \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
-	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \
+	weath="curl wttr.in | less" \

@@ -8,6 +8,7 @@ set scrolloff 10
 set icons
 set period 1
 set hiddenfiles ".*:*.aux:*.log:*.bbl:*.bcf:*.blg:*.run.xml"
+set hidden on
 
 # Vars that depend on environmental variables
 $lf -remote "send $id set previewer ${XDG_CONFIG_HOME:-$HOME/.config}/lf/scope"
@@ -70,11 +71,25 @@ cmd copyto ${{
 }}
 
 cmd setbg "$1"
-cmd bulkrename $vidir
+#cmd bulkrename $vidir
+cmd bulkrename ${{
+    cdir="$(pwd)"
+    printf "%s\n" "$(printf "$fx\n" | awk -F'/' '{print $NF}')" > /tmp/lfbulk.tmp
+    cp /tmp/lfbulk.tmp /tmp/lfbulk2.tmp
+    ${EDITOR:-vim} /tmp/lfbulk2.tmp
+    for (( i=1; i<=$(cat /tmp/lfbulk.tmp | wc -l); i++ )); do
+        fi="$(cat /tmp/lfbulk.tmp | head -n $i | tail -n 1)"
+        fo="$(cat /tmp/lfbulk2.tmp | head -n $i | tail -n 1)"
+        mv $cdir/$fi $cdir/$fo --force
+    done
+}}
 
 # Bindings
 map <c-f> $lf -remote "send $id select '$(fzf)'"
 map J $lf -remote "send $id cd $(cut -d'	' -f2 ${XDG_CONFIG_HOME:-$HOME/.config}/shell/bm-dirs | fzf)"
+map n up
+map t down
+map s open
 map gh
 map g top
 map D delete
@@ -89,7 +104,6 @@ map x $$f
 map X !$f
 map o &mimeopen $f
 map O $mimeopen --ask $f
-
 map A rename # at the very end
 map c push A<c-u> # new rename
 map I push A<c-a> # at the very beginning

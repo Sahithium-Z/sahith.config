@@ -1,0 +1,9 @@
+2021/05/22-10:11:01.339 4e30d Reusing MANIFEST /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/05/22-10:11:01.340 4e30d Recovering log #3
+2021/05/22-10:11:01.340 4e30d Reusing old log /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000003.log 
+2021/05/22-10:15:35.941 4e49a Level-0 table #5: started
+2021/05/22-10:15:36.022 4e49a Level-0 table #5: 206994 bytes OK
+2021/05/22-10:15:36.054 4e49a Delete type=0 #3
+2021/05/22-11:43:42.519 4e49a Level-0 table #7: started
+2021/05/22-11:43:42.581 4e49a Level-0 table #7: 59163 bytes OK
+2021/05/22-11:43:42.617 4e49a Delete type=0 #4

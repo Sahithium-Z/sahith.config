@@ -1,0 +1,16 @@
+{"description":"The heart of the matter\n","entry":"20210518T213403Z","modified":"20210518T213403Z","status":"pending","uuid":"dde81bfa-fdfd-4d8e-aaac-54c04aa89063"}
+{"description":"sherlock social media","entry":"20210520T172950Z","modified":"20210520T172950Z","status":"pending","uuid":"9828d9ad-1127-4bf1-a2d8-dbf1dea48d08"}
+{"description":"The heart of the matter\n","end":"20210520T172957Z","entry":"20210518T213403Z","modified":"20210520T172957Z","status":"completed","uuid":"dde81bfa-fdfd-4d8e-aaac-54c04aa89063"}
+{"description":"edit notes","due":"20210522T070000Z","entry":"20210521T204045Z","modified":"20210521T204045Z","status":"pending","uuid":"a3d8eabb-c48c-4347-b93c-46102f62d352"}
+{"description":"daily log","due":"20210522T070000Z","entry":"20210521T204101Z","modified":"20210521T204101Z","status":"pending","uuid":"09a85775-71ca-405b-9595-127404a3b1f5"}
+{"description":"read chinese philosophies","due":"20210522T070000Z","entry":"20210521T204141Z","modified":"20210521T204141Z","status":"pending","uuid":"1af4a5f8-9bb7-447b-823b-caa36aa03998"}
+{"description":"answer questions about philosophies","due":"20210522T070000Z","entry":"20210521T204201Z","modified":"20210521T204201Z","status":"pending","uuid":"bb6be09b-4b90-4a29-9721-698eca18e7ec"}
+{"description":"read primary sources","due":"20210524T070000Z","entry":"20210521T204216Z","modified":"20210521T204216Z","status":"pending","uuid":"75228a9e-cb68-42a8-98a6-4ce757615668"}
+{"description":"daily log","due":"20210522T070000Z","end":"20210521T205346Z","entry":"20210521T204101Z","modified":"20210521T205346Z","status":"completed","uuid":"09a85775-71ca-405b-9595-127404a3b1f5"}
+{"description":"edit notes","due":"20210522T070000Z","end":"20210521T211350Z","entry":"20210521T204045Z","modified":"20210521T211350Z","status":"completed","uuid":"a3d8eabb-c48c-4347-b93c-46102f62d352"}
+{"description":"roman flipgrid","entry":"20210521T211400Z","modified":"20210521T211400Z","status":"pending","uuid":"7fa087f8-9cd0-4a6a-8f36-081a3b17d456"}
+{"description":"roman flipgrid","due":"20210524T070000Z","entry":"20210521T211400Z","modified":"20210521T211416Z","status":"pending","uuid":"7fa087f8-9cd0-4a6a-8f36-081a3b17d456"}
+{"description":"BPQ Question 1","entry":"20210521T211446Z","modified":"20210521T211446Z","status":"pending","uuid":"9d9fe2c8-9f9c-4444-9318-9cc06429176f"}
+{"description":"BPQ Question 2","entry":"20210521T211448Z","modified":"20210521T211448Z","status":"pending","uuid":"567bfdfa-261c-454a-a227-7c2e3a29c77c"}
+{"description":"BPQ Question 3","entry":"20210521T211449Z","modified":"20210521T211449Z","status":"pending","uuid":"9290878a-4f9e-4019-bc8c-03b567ef539b"}
+{"description":"BPQ Question 4","entry":"20210521T211451Z","modified":"20210521T211451Z","status":"pending","uuid":"f5715a02-720b-4f5e-b7fb-ee1fe9856569"}
