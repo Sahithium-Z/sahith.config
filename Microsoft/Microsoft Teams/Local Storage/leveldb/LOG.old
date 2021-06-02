@@ -1,23 +1,21 @@
-2021/06/01-17:33:31.590 233e5 Reusing MANIFEST /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/06/01-17:33:31.591 233e5 Recovering log #57
-2021/06/01-17:33:31.622 233e5 Level-0 table #60: started
-2021/06/01-17:33:31.661 233e5 Level-0 table #60: 62106 bytes OK
-2021/06/01-17:33:31.699 233e5 Delete type=0 #57
-2021/06/01-17:34:31.753 2360a Level-0 table #63: started
-2021/06/01-17:34:31.905 2360a Level-0 table #63: 288245 bytes OK
-2021/06/01-17:34:32.167 2360a Delete type=0 #61
-2021/06/01-17:34:32.168 2360a Compacting 4@0 + 1@1 files
-2021/06/01-17:34:32.527 2360a Generated table #64@0: 289 keys, 291031 bytes
-2021/06/01-17:34:32.549 2360a Compacted 4@0 + 1@1 files => 291031 bytes
-2021/06/01-17:34:32.864 2360a compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/06/01-17:34:32.864 2360a Delete type=2 #60
-2021/06/01-17:34:32.864 2360a Delete type=2 #54
-2021/06/01-17:34:32.864 2360a Delete type=2 #63
-2021/06/01-17:34:32.864 2360a Delete type=2 #58
-2021/06/01-17:34:32.864 2360a Delete type=2 #56
-2021/06/01-17:35:31.752 2360a Level-0 table #66: started
-2021/06/01-17:35:31.818 2360a Level-0 table #66: 162235 bytes OK
-2021/06/01-17:35:31.854 2360a Delete type=0 #62
-2021/06/01-17:35:47.624 2360a Level-0 table #68: started
-2021/06/01-17:35:47.684 2360a Level-0 table #68: 41696 bytes OK
-2021/06/01-17:35:47.721 2360a Delete type=0 #65
+2021/06/01-19:38:01.563 27eb9 Reusing MANIFEST /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/06/01-19:38:01.564 27eb9 Recovering log #67
+2021/06/01-19:38:01.607 27eb9 Reusing old log /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000067.log 
+2021/06/01-19:41:01.925 2828f Level-0 table #71: started
+2021/06/01-19:41:02.021 2828f Level-0 table #71: 185760 bytes OK
+2021/06/01-19:41:02.054 2828f Delete type=0 #67
+2021/06/01-20:30:01.084 2828f Level-0 table #73: started
+2021/06/01-20:30:01.130 2828f Level-0 table #73: 79650 bytes OK
+2021/06/01-20:30:01.164 2828f Delete type=0 #70
+2021/06/01-20:30:01.164 2828f Compacting 4@0 + 1@1 files
+2021/06/01-20:30:01.248 2828f Generated table #74@0: 326 keys, 468664 bytes
+2021/06/01-20:30:01.248 2828f Compacted 4@0 + 1@1 files => 468664 bytes
+2021/06/01-20:30:01.306 2828f compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/01-20:30:01.306 2828f Delete type=2 #64
+2021/06/01-20:30:01.306 2828f Delete type=2 #68
+2021/06/01-20:30:01.306 2828f Delete type=2 #66
+2021/06/01-20:30:01.306 2828f Delete type=2 #73
+2021/06/01-20:30:01.306 2828f Delete type=2 #71
+2021/06/01-21:37:18.470 2828f Level-0 table #76: started
+2021/06/01-21:37:18.530 2828f Level-0 table #76: 29426 bytes OK
+2021/06/01-21:37:18.560 2828f Delete type=0 #72
