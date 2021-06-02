@@ -1,9 +1,23 @@
-2021/05/22-10:11:01.339 4e30d Reusing MANIFEST /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/05/22-10:11:01.340 4e30d Recovering log #3
-2021/05/22-10:11:01.340 4e30d Reusing old log /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000003.log 
-2021/05/22-10:15:35.941 4e49a Level-0 table #5: started
-2021/05/22-10:15:36.022 4e49a Level-0 table #5: 206994 bytes OK
-2021/05/22-10:15:36.054 4e49a Delete type=0 #3
-2021/05/22-11:43:42.519 4e49a Level-0 table #7: started
-2021/05/22-11:43:42.581 4e49a Level-0 table #7: 59163 bytes OK
-2021/05/22-11:43:42.617 4e49a Delete type=0 #4
+2021/06/01-17:33:31.590 233e5 Reusing MANIFEST /home/sahith/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/06/01-17:33:31.591 233e5 Recovering log #57
+2021/06/01-17:33:31.622 233e5 Level-0 table #60: started
+2021/06/01-17:33:31.661 233e5 Level-0 table #60: 62106 bytes OK
+2021/06/01-17:33:31.699 233e5 Delete type=0 #57
+2021/06/01-17:34:31.753 2360a Level-0 table #63: started
+2021/06/01-17:34:31.905 2360a Level-0 table #63: 288245 bytes OK
+2021/06/01-17:34:32.167 2360a Delete type=0 #61
+2021/06/01-17:34:32.168 2360a Compacting 4@0 + 1@1 files
+2021/06/01-17:34:32.527 2360a Generated table #64@0: 289 keys, 291031 bytes
+2021/06/01-17:34:32.549 2360a Compacted 4@0 + 1@1 files => 291031 bytes
+2021/06/01-17:34:32.864 2360a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/01-17:34:32.864 2360a Delete type=2 #60
+2021/06/01-17:34:32.864 2360a Delete type=2 #54
+2021/06/01-17:34:32.864 2360a Delete type=2 #63
+2021/06/01-17:34:32.864 2360a Delete type=2 #58
+2021/06/01-17:34:32.864 2360a Delete type=2 #56
+2021/06/01-17:35:31.752 2360a Level-0 table #66: started
+2021/06/01-17:35:31.818 2360a Level-0 table #66: 162235 bytes OK
+2021/06/01-17:35:31.854 2360a Delete type=0 #62
+2021/06/01-17:35:47.624 2360a Level-0 table #68: started
+2021/06/01-17:35:47.684 2360a Level-0 table #68: 41696 bytes OK
+2021/06/01-17:35:47.721 2360a Delete type=0 #65

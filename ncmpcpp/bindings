@@ -407,9 +407,9 @@ def_key "+"
 def_key "="
     volume_up
 
-def_key "j"
+def_key "t"
     scroll_down
-def_key "k"
+def_key "n"
     scroll_up
 
 def_key "ctrl-u"
@@ -432,29 +432,29 @@ def_key "l"
 def_key "."
     show_lyrics
 
-def_key "n"
+def_key "k"
     next_found_item
-def_key "N"
+def_key "K"
     previous_found_item
 
 # not used but bound
-def_key "J"
+def_key "T"
     move_sort_order_down
-def_key "K"
+def_key "N"
     move_sort_order_up
 def_key "h"
   jump_to_parent_directory
-def_key "l"
+def_key "s"
   enter_directory
-def_key "l"
+def_key "s"
   run_action
-def_key "l"
+def_key "s"
   play_item
 def_key "m"
   show_media_library
 def_key "m"
   toggle_media_library_columns_mode
-def_key "t"
+def_key "j"
   show_tag_editor
 def_key "v"
   show_visualizer
@@ -465,9 +465,9 @@ def_key "g"
 #jump_to_position_in_song
 def_key "U"
   update_database
-def_key "s"
+def_key "l"
   reset_search_engine
-def_key "s"
+def_key "l"
   show_search_engine
 def_key "f"
   show_browser

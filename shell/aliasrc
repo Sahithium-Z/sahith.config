@@ -6,7 +6,7 @@
 # Use $XINITRC variable if file exists.
 [ -f "$XINITRC" ] && alias startx="startx $XINITRC"
 
-# sudo not required for some system commands
+# superuser not required for some system commands
 for x in mount umount sv pacman updatedb su ; do
 	alias $x="doas -- $x"
 done
@@ -35,7 +35,7 @@ alias \
 	g="git" \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
-	sdn="sudo shutdown -h now" \
+	sdn="doas -- shutdown -h now" \
 	e="$EDITOR" \
 	v="$EDITOR" \
 	p="paru --sudo doas --sudoflags --" \
@@ -46,8 +46,10 @@ alias \
 	s="doas --" \
 	wg="wordgrinder" \
 	rc="reflex-curses" \
+	rpg="~/.local/bin/rpg-cli" \
 
 alias \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
 	weath="curl wttr.in | less" \
+	sudo="doas --"

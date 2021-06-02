@@ -153,3 +153,13 @@ nnoremap s l
 nnoremap j t
 nnoremap k n
 nnoremap l s
+vnoremap t j
+vnoremap n k
+vnoremap s l
+vnoremap j t
+vnoremap k n
+vnoremap l s
+nnoremap <C-T> <C-W><C-J>
+nnoremap <C-N> <C-W><C-K>
+nnoremap <C-S> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
