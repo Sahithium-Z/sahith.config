@@ -1,0 +1,749 @@
+09:30:21 PM.419: CPU Name: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+09:30:21 PM.419: CPU Speed: 1683.525MHz
+09:30:21 PM.419: Physical Cores: 2, Logical Cores: 4
+09:30:21 PM.419: Physical Memory: 7836MB Total, 972MB Free
+09:30:21 PM.419: Kernel Version: Linux 5.12.9-arch1-1
+09:30:21 PM.419: Distribution: ArcoLinux Unknown
+09:30:21 PM.419: Session Type: tty
+09:30:21 PM.419: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.11
+09:30:21 PM.420: Portable mode: false
+09:30:21 PM.496: OBS 27.0.0-2 (linux)
+09:30:21 PM.496: ---------------------------------
+09:30:21 PM.498: ---------------------------------
+09:30:21 PM.498: audio settings reset:
+09:30:21 PM.498: 	samples per sec: 48000
+09:30:21 PM.498: 	speakers:        2
+09:30:21 PM.500: ---------------------------------
+09:30:21 PM.500: Initializing OpenGL...
+09:30:21 PM.773: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 3000 (SNB GT2)
+09:30:21 PM.773: OpenGL loaded successfully, version 3.3 (Core Profile) Mesa 21.1.2, shading language 3.30
+09:30:21 PM.910: ---------------------------------
+09:30:21 PM.910: video settings reset:
+09:30:21 PM.910: 	base resolution:   1920x1080
+09:30:21 PM.910: 	output resolution: 1280x720
+09:30:21 PM.910: 	downscale filter:  Bicubic
+09:30:21 PM.910: 	fps:               30/1
+09:30:21 PM.910: 	format:            NV12
+09:30:21 PM.910: 	YUV mode:          709/Partial
+09:30:21 PM.910: NV12 texture support not available
+09:30:21 PM.917: Audio monitoring device:
+09:30:21 PM.917: 	name: Default
+09:30:21 PM.917: 	id: default
+09:30:21 PM.917: ---------------------------------
+09:30:21 PM.919: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:30:21 PM.920: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+09:30:22 PM.047: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:30:22 PM.047: No blackmagic support
+09:30:22 PM.053: v4l2loopback not installed, virtual camera disabled
+09:30:22 PM.059: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+09:30:22 PM.059: 
+09:30:22 PM.059: FFMPEG VAAPI supported
+09:30:22 PM.075: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+09:30:22 PM.075: 
+09:30:22 PM.075: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+09:30:22 PM.077: ---------------------------------
+09:30:22 PM.077:   Loaded Modules:
+09:30:22 PM.077:     text-freetype2.so
+09:30:22 PM.077:     rtmp-services.so
+09:30:22 PM.077:     obs-x264.so
+09:30:22 PM.077:     obs-transitions.so
+09:30:22 PM.077:     obs-outputs.so
+09:30:22 PM.077:     obs-libfdk.so
+09:30:22 PM.077:     obs-filters.so
+09:30:22 PM.077:     obs-ffmpeg.so
+09:30:22 PM.077:     linux-v4l2.so
+09:30:22 PM.077:     linux-pulseaudio.so
+09:30:22 PM.077:     linux-jack.so
+09:30:22 PM.077:     linux-decklink.so
+09:30:22 PM.077:     linux-capture.so
+09:30:22 PM.077:     linux-alsa.so
+09:30:22 PM.077:     image-source.so
+09:30:22 PM.077:     frontend-tools.so
+09:30:22 PM.077:     decklink-ouput-ui.so
+09:30:22 PM.077:     decklink-captions.so
+09:30:22 PM.077: ---------------------------------
+09:30:22 PM.077: ==== Startup complete ===============================================
+09:30:22 PM.081: No scene file found, creating default scene
+09:30:22 PM.081: All scene data cleared
+09:30:22 PM.081: ------------------------------------------------
+09:30:22 PM.087: pulse-input: Server name: 'pulseaudio 14.2'
+09:30:22 PM.088: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:30:22 PM.088: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+09:30:22 PM.088: pulse-input: Server name: 'pulseaudio 14.2'
+09:30:22 PM.089: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:30:22 PM.089: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+09:30:22 PM.089: Switched to scene 'Scene'
+09:30:22 PM.089: Failed to glob scene collections
+09:30:22 PM.641: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+09:30:22 PM.641: 
+09:30:32 PM.571: 
+09:30:32 PM.571: ==== Auto-config wizard testing commencing ======
+
+09:30:32 PM.617: ---------------------------------
+09:30:32 PM.618: video settings reset:
+09:30:32 PM.618: 	base resolution:   1920x1080
+09:30:32 PM.618: 	output resolution: 852x480
+09:30:32 PM.618: 	downscale filter:  Bicubic
+09:30:32 PM.618: 	fps:               30/1
+09:30:32 PM.618: 	format:            NV12
+09:30:32 PM.618: 	YUV mode:          709/Partial
+09:30:32 PM.618: NV12 texture support not available
+09:30:32 PM.628: ---------------------------------
+09:30:32 PM.628: [x264 encoder: 'test_x264'] preset: veryfast
+09:30:32 PM.628: [x264 encoder: 'test_x264'] profile: high
+09:30:32 PM.660: [x264 encoder: 'test_x264'] settings:
+09:30:32 PM.660: 	rate_control: CRF
+09:30:32 PM.660: 	bitrate:      0
+09:30:32 PM.660: 	buffer size:  0
+09:30:32 PM.660: 	crf:          20
+09:30:32 PM.660: 	fps_num:      30
+09:30:32 PM.660: 	fps_den:      1
+09:30:32 PM.660: 	width:        852
+09:30:32 PM.660: 	height:       480
+09:30:32 PM.660: 	keyint:       250
+09:30:32 PM.660: 
+09:30:32 PM.677: ---------------------------------
+09:30:32 PM.677: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:30:32 PM.677: 
+09:30:37 PM.709: Output 'null': stopping
+09:30:37 PM.710: Output 'null': Total frames output: 129
+09:30:37 PM.710: Output 'null': Total drawn frames: 149 (150 attempted)
+09:30:37 PM.710: Output 'null': Number of lagged frames due to rendering lag/stalls: 1 (0.7%)
+09:30:37 PM.795: ---------------------------------
+09:30:37 PM.795: video settings reset:
+09:30:37 PM.795: 	base resolution:   1920x1080
+09:30:37 PM.795: 	output resolution: 640x360
+09:30:37 PM.795: 	downscale filter:  Bicubic
+09:30:37 PM.795: 	fps:               60/1
+09:30:37 PM.795: 	format:            NV12
+09:30:37 PM.795: 	YUV mode:          709/Partial
+09:30:37 PM.795: NV12 texture support not available
+09:30:37 PM.808: ---------------------------------
+09:30:37 PM.808: [x264 encoder: 'test_x264'] preset: veryfast
+09:30:37 PM.808: [x264 encoder: 'test_x264'] profile: high
+09:30:37 PM.808: [x264 encoder: 'test_x264'] settings:
+09:30:37 PM.808: 	rate_control: CRF
+09:30:37 PM.808: 	bitrate:      0
+09:30:37 PM.808: 	buffer size:  0
+09:30:37 PM.808: 	crf:          20
+09:30:37 PM.808: 	fps_num:      60
+09:30:37 PM.808: 	fps_den:      1
+09:30:37 PM.808: 	width:        640
+09:30:37 PM.808: 	height:       360
+09:30:37 PM.808: 	keyint:       250
+09:30:37 PM.808: 
+09:30:37 PM.812: ---------------------------------
+09:30:37 PM.812: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:30:37 PM.812: 
+09:30:42 PM.816: Output 'null': stopping
+09:30:42 PM.816: Output 'null': Total frames output: 278
+09:30:42 PM.816: Output 'null': Total drawn frames: 263 (300 attempted)
+09:30:42 PM.816: Output 'null': Number of lagged frames due to rendering lag/stalls: 37 (12.3%)
+09:30:42 PM.875: ---------------------------------
+09:30:42 PM.875: video settings reset:
+09:30:42 PM.875: 	base resolution:   1920x1080
+09:30:42 PM.875: 	output resolution: 640x360
+09:30:42 PM.875: 	downscale filter:  Bicubic
+09:30:42 PM.875: 	fps:               30/1
+09:30:42 PM.875: 	format:            NV12
+09:30:42 PM.875: 	YUV mode:          709/Partial
+09:30:42 PM.875: NV12 texture support not available
+09:30:42 PM.883: ---------------------------------
+09:30:42 PM.883: [x264 encoder: 'test_x264'] preset: veryfast
+09:30:42 PM.883: [x264 encoder: 'test_x264'] profile: high
+09:30:42 PM.883: [x264 encoder: 'test_x264'] settings:
+09:30:42 PM.883: 	rate_control: CRF
+09:30:42 PM.883: 	bitrate:      0
+09:30:42 PM.883: 	buffer size:  0
+09:30:42 PM.883: 	crf:          20
+09:30:42 PM.883: 	fps_num:      30
+09:30:42 PM.883: 	fps_den:      1
+09:30:42 PM.883: 	width:        640
+09:30:42 PM.883: 	height:       360
+09:30:42 PM.883: 	keyint:       250
+09:30:42 PM.883: 
+09:30:42 PM.886: ---------------------------------
+09:30:42 PM.887: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+09:30:42 PM.887: 
+09:30:47 PM.888: Output 'null': stopping
+09:30:47 PM.888: Output 'null': Total frames output: 129
+09:30:47 PM.888: Output 'null': Total drawn frames: 150
+09:30:47 PM.950: ---------------------------------
+09:30:47 PM.950: video settings reset:
+09:30:47 PM.950: 	base resolution:   1920x1080
+09:30:47 PM.950: 	output resolution: 1280x720
+09:30:47 PM.950: 	downscale filter:  Bicubic
+09:30:47 PM.950: 	fps:               30/1
+09:30:47 PM.950: 	format:            NV12
+09:30:47 PM.950: 	YUV mode:          709/Partial
+09:30:47 PM.950: NV12 texture support not available
+09:30:49 PM.924: ---------------------------------
+09:30:49 PM.924: video settings reset:
+09:30:49 PM.924: 	base resolution:   1920x1080
+09:30:49 PM.924: 	output resolution: 852x480
+09:30:49 PM.924: 	downscale filter:  Bicubic
+09:30:49 PM.924: 	fps:               30/1
+09:30:49 PM.924: 	format:            NV12
+09:30:49 PM.924: 	YUV mode:          709/Partial
+09:30:49 PM.924: NV12 texture support not available
+09:30:49 PM.931: 
+09:30:49 PM.931: ==== Auto-config wizard testing stopping ========
+
+09:31:01 PM.936: User added source 'teams' (xcomposite_input) to scene 'Scene'
+09:31:02 PM.044: xcompcap: [window-capture: 'teams'] update settings:
+09:31:02 PM.044: 	title: OBS 27.0.0-2 (linux) - Profile: Untitled - Scenes: Untitled
+09:31:02 PM.044: 	class: obs
+09:31:02 PM.044: 	Bit depth: 24
+09:31:02 PM.044: 	Found proper GLXFBConfig (in 24): yes
+09:31:02 PM.044: 
+09:31:02 PM.431: xcompcap: [window-capture: 'teams'] update settings:
+09:31:02 PM.431: 	title: OBS 27.0.0-2 (linux) - Profile: Untitled - Scenes: Untitled
+09:31:02 PM.431: 	class: obs
+09:31:02 PM.431: 	Bit depth: 24
+09:31:02 PM.431: 	Found proper GLXFBConfig (in 24): yes
+09:31:02 PM.431: 
+09:31:05 PM.164: xcompcap: [window-capture: 'teams'] update settings:
+09:31:05 PM.164: 	title: Chemistry (Meeting) | Microsoft Teams
+09:31:05 PM.164: 	class: microsoft teams - preview
+09:31:05 PM.164: 	Bit depth: 24
+09:31:05 PM.164: 	Found proper GLXFBConfig (in 24): yes
+09:31:05 PM.164: 
+09:31:05 PM.697: xcompcap: [window-capture: 'teams'] update settings:
+09:31:05 PM.697: 	title: Chemistry (Meeting) | Microsoft Teams
+09:31:05 PM.697: 	class: microsoft teams - preview
+09:31:05 PM.697: 	Bit depth: 24
+09:31:05 PM.697: 	Found proper GLXFBConfig (in 24): yes
+09:31:05 PM.697: 
+09:31:12 PM.688: ---------------------------------
+09:31:12 PM.688: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+09:31:12 PM.688: [x264 encoder: 'simple_h264_recording'] profile: high
+09:31:12 PM.688: [x264 encoder: 'simple_h264_recording'] settings:
+09:31:12 PM.688: 	rate_control: CRF
+09:31:12 PM.688: 	bitrate:      0
+09:31:12 PM.688: 	buffer size:  0
+09:31:12 PM.688: 	crf:          18
+09:31:12 PM.688: 	fps_num:      30
+09:31:12 PM.688: 	fps_den:      1
+09:31:12 PM.688: 	width:        852
+09:31:12 PM.688: 	height:       480
+09:31:12 PM.688: 	keyint:       250
+09:31:12 PM.688: 
+09:31:12 PM.691: libfdk_aac encoder created
+09:31:12 PM.691: libfdk_aac bitrate: 192, channels: 2
+09:31:12 PM.692: ==== Recording Start ===============================================
+09:31:12 PM.692: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sahith/2021-06-09 21-31-12.mkv'...
+09:32:24 PM.434: xcompcap: [window-capture: 'teams'] update settings:
+09:32:24 PM.434: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:24 PM.434: 	class: microsoft teams - preview
+09:32:24 PM.434: 	Bit depth: 24
+09:32:24 PM.434: 	Found proper GLXFBConfig (in 24): yes
+09:32:24 PM.434: 
+09:32:32 PM.434: xcompcap: [window-capture: 'teams'] update settings:
+09:32:32 PM.434: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:32 PM.434: 	class: microsoft teams - preview
+09:32:32 PM.434: 	Bit depth: 24
+09:32:32 PM.434: 	Found proper GLXFBConfig (in 24): yes
+09:32:32 PM.434: 
+09:32:47 PM.567: xcompcap: [window-capture: 'teams'] update settings:
+09:32:47 PM.567: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:47 PM.567: 	class: microsoft teams - preview
+09:32:47 PM.567: 	Bit depth: 24
+09:32:47 PM.567: 	Found proper GLXFBConfig (in 24): yes
+09:32:47 PM.567: 
+09:32:58 PM.569: xcompcap: [window-capture: 'teams'] update settings:
+09:32:58 PM.569: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:58 PM.569: 	class: microsoft teams - preview
+09:32:58 PM.569: 	Bit depth: 24
+09:32:58 PM.569: 	Found proper GLXFBConfig (in 24): yes
+09:32:58 PM.569: 
+09:32:59 PM.605: xcompcap: [window-capture: 'teams'] update settings:
+09:32:59 PM.605: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:59 PM.605: 	class: microsoft teams - preview
+09:32:59 PM.605: 	Bit depth: 24
+09:32:59 PM.605: 	Found proper GLXFBConfig (in 24): yes
+09:32:59 PM.605: 
+09:32:59 PM.635: xcompcap: [window-capture: 'teams'] update settings:
+09:32:59 PM.635: 	title: Chemistry (Meeting) | Microsoft Teams
+09:32:59 PM.635: 	class: microsoft teams - preview
+09:32:59 PM.635: 	Bit depth: 24
+09:32:59 PM.635: 	Found proper GLXFBConfig (in 24): yes
+09:32:59 PM.635: 
+09:33:00 PM.170: xcompcap: [window-capture: 'teams'] update settings:
+09:33:00 PM.170: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:00 PM.170: 	class: microsoft teams - preview
+09:33:00 PM.170: 	Bit depth: 24
+09:33:00 PM.170: 	Found proper GLXFBConfig (in 24): yes
+09:33:00 PM.170: 
+09:33:46 PM.465: xcompcap: [window-capture: 'teams'] update settings:
+09:33:46 PM.465: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:46 PM.465: 	class: microsoft teams - preview
+09:33:46 PM.465: 	Bit depth: 24
+09:33:46 PM.465: 	Found proper GLXFBConfig (in 24): yes
+09:33:46 PM.465: 
+09:33:48 PM.834: xcompcap: [window-capture: 'teams'] update settings:
+09:33:48 PM.834: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:48 PM.834: 	class: microsoft teams - preview
+09:33:48 PM.834: 	Bit depth: 24
+09:33:48 PM.834: 	Found proper GLXFBConfig (in 24): yes
+09:33:48 PM.834: 
+09:33:51 PM.131: xcompcap: [window-capture: 'teams'] update settings:
+09:33:51 PM.131: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:51 PM.131: 	class: microsoft teams - preview
+09:33:51 PM.131: 	Bit depth: 24
+09:33:51 PM.131: 	Found proper GLXFBConfig (in 24): yes
+09:33:51 PM.131: 
+09:33:52 PM.775: xcompcap: [window-capture: 'teams'] update settings:
+09:33:52 PM.775: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:52 PM.775: 	class: microsoft teams - preview
+09:33:52 PM.775: 	Bit depth: 24
+09:33:52 PM.775: 	Found proper GLXFBConfig (in 24): yes
+09:33:52 PM.775: 
+09:33:55 PM.864: xcompcap: [window-capture: 'teams'] update settings:
+09:33:55 PM.864: 	title: Chemistry (Meeting) | Microsoft Teams
+09:33:55 PM.864: 	class: microsoft teams - preview
+09:33:55 PM.864: 	Bit depth: 24
+09:33:55 PM.864: 	Found proper GLXFBConfig (in 24): yes
+09:33:55 PM.864: 
+09:35:25 PM.055: xcompcap: [window-capture: 'teams'] update settings:
+09:35:25 PM.055: 	title: Chemistry (Meeting) | Microsoft Teams
+09:35:25 PM.055: 	class: microsoft teams - preview
+09:35:25 PM.055: 	Bit depth: 24
+09:35:25 PM.055: 	Found proper GLXFBConfig (in 24): yes
+09:35:25 PM.055: 
+09:35:25 PM.086: xcompcap: [window-capture: 'teams'] update settings:
+09:35:25 PM.086: 	title: Chemistry (Meeting) | Microsoft Teams
+09:35:25 PM.086: 	class: microsoft teams - preview
+09:35:25 PM.086: 	Bit depth: 24
+09:35:25 PM.086: 	Found proper GLXFBConfig (in 24): yes
+09:35:25 PM.086: 
+09:35:50 PM.009: xcompcap: [window-capture: 'teams'] update settings:
+09:35:50 PM.009: 	title: Chemistry (Meeting) | Microsoft Teams
+09:35:50 PM.009: 	class: microsoft teams - preview
+09:35:50 PM.009: 	Bit depth: 24
+09:35:50 PM.009: 	Found proper GLXFBConfig (in 24): yes
+09:35:50 PM.009: 
+09:36:02 PM.467: xcompcap: [window-capture: 'teams'] update settings:
+09:36:02 PM.467: 	title: Chemistry (Meeting) | Microsoft Teams
+09:36:02 PM.467: 	class: microsoft teams - preview
+09:36:02 PM.467: 	Bit depth: 24
+09:36:02 PM.467: 	Found proper GLXFBConfig (in 24): yes
+09:36:02 PM.467: 
+09:36:08 PM.823: xcompcap: [window-capture: 'teams'] update settings:
+09:36:08 PM.823: 	title: Chemistry (Meeting) | Microsoft Teams
+09:36:08 PM.823: 	class: microsoft teams - preview
+09:36:08 PM.823: 	Bit depth: 24
+09:36:08 PM.823: 	Found proper GLXFBConfig (in 24): yes
+09:36:08 PM.823: 
+09:36:22 PM.826: pulse-input: Stopped recording from 'default'
+09:36:22 PM.826: pulse-input: Got 103049 packets with 15908293 frames
+09:36:22 PM.826: pulse-input: Server name: 'pulseaudio 14.2'
+09:36:22 PM.826: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+09:36:22 PM.826: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+09:36:28 PM.271: xcompcap: [window-capture: 'teams'] update settings:
+09:36:28 PM.271: 	title: Chemistry (Meeting) | Microsoft Teams
+09:36:28 PM.271: 	class: microsoft teams - preview
+09:36:28 PM.271: 	Bit depth: 24
+09:36:28 PM.271: 	Found proper GLXFBConfig (in 24): yes
+09:36:28 PM.271: 
+09:36:43 PM.438: xcompcap: [window-capture: 'teams'] update settings:
+09:36:43 PM.438: 	title: Chemistry (Meeting) | Microsoft Teams
+09:36:43 PM.438: 	class: microsoft teams - preview
+09:36:43 PM.438: 	Bit depth: 24
+09:36:43 PM.438: 	Found proper GLXFBConfig (in 24): yes
+09:36:43 PM.438: 
+09:38:08 PM.170: xcompcap: [window-capture: 'teams'] update settings:
+09:38:08 PM.170: 	title: Chemistry (Meeting) | Microsoft Teams
+09:38:08 PM.170: 	class: microsoft teams - preview
+09:38:08 PM.170: 	Bit depth: 24
+09:38:08 PM.170: 	Found proper GLXFBConfig (in 24): yes
+09:38:08 PM.170: 
+09:38:45 PM.329: xcompcap: [window-capture: 'teams'] update settings:
+09:38:45 PM.329: 	title: Chemistry (Meeting) | Microsoft Teams
+09:38:45 PM.329: 	class: microsoft teams - preview
+09:38:45 PM.329: 	Bit depth: 24
+09:38:45 PM.329: 	Found proper GLXFBConfig (in 24): yes
+09:38:45 PM.329: 
+09:39:14 PM.382: xcompcap: [window-capture: 'teams'] update settings:
+09:39:14 PM.382: 	title: Chemistry (Meeting) | Microsoft Teams
+09:39:14 PM.382: 	class: microsoft teams - preview
+09:39:14 PM.382: 	Bit depth: 24
+09:39:14 PM.382: 	Found proper GLXFBConfig (in 24): yes
+09:39:14 PM.382: 
+09:39:18 PM.976: xcompcap: [window-capture: 'teams'] update settings:
+09:39:18 PM.976: 	title: Chemistry (Meeting) | Microsoft Teams
+09:39:18 PM.976: 	class: microsoft teams - preview
+09:39:18 PM.976: 	Bit depth: 24
+09:39:18 PM.976: 	Found proper GLXFBConfig (in 24): yes
+09:39:18 PM.976: 
+09:40:35 PM.219: xcompcap: [window-capture: 'teams'] update settings:
+09:40:35 PM.219: 	title: Chemistry (Meeting) | Microsoft Teams
+09:40:35 PM.219: 	class: microsoft teams - preview
+09:40:35 PM.219: 	Bit depth: 24
+09:40:35 PM.219: 	Found proper GLXFBConfig (in 24): yes
+09:40:35 PM.219: 
+09:40:36 PM.116: xcompcap: [window-capture: 'teams'] update settings:
+09:40:36 PM.116: 	title: Chemistry (Meeting) | Microsoft Teams
+09:40:36 PM.116: 	class: microsoft teams - preview
+09:40:36 PM.116: 	Bit depth: 24
+09:40:36 PM.116: 	Found proper GLXFBConfig (in 24): yes
+09:40:36 PM.116: 
+09:41:01 PM.434: User added filter 'Color Correction' (color_filter_v2) to source 'teams'
+09:41:23 PM.769: xcompcap: [window-capture: 'teams'] update settings:
+09:41:23 PM.769: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:23 PM.769: 	class: microsoft teams - preview
+09:41:23 PM.769: 	Bit depth: 24
+09:41:23 PM.769: 	Found proper GLXFBConfig (in 24): yes
+09:41:23 PM.769: 
+09:41:24 PM.238: xcompcap: [window-capture: 'teams'] update settings:
+09:41:24 PM.238: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:24 PM.238: 	class: microsoft teams - preview
+09:41:24 PM.238: 	Bit depth: 24
+09:41:24 PM.238: 	Found proper GLXFBConfig (in 24): yes
+09:41:24 PM.238: 
+09:41:32 PM.459: xcompcap: [window-capture: 'teams'] update settings:
+09:41:32 PM.459: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:32 PM.459: 	class: microsoft teams - preview
+09:41:32 PM.459: 	Bit depth: 24
+09:41:32 PM.459: 	Found proper GLXFBConfig (in 24): yes
+09:41:32 PM.459: 
+09:41:34 PM.278: xcompcap: [window-capture: 'teams'] update settings:
+09:41:34 PM.278: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:34 PM.278: 	class: microsoft teams - preview
+09:41:34 PM.278: 	Bit depth: 24
+09:41:34 PM.278: 	Found proper GLXFBConfig (in 24): yes
+09:41:34 PM.278: 
+09:41:37 PM.262: xcompcap: [window-capture: 'teams'] update settings:
+09:41:37 PM.262: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:37 PM.262: 	class: microsoft teams - preview
+09:41:37 PM.262: 	Bit depth: 24
+09:41:37 PM.262: 	Found proper GLXFBConfig (in 24): yes
+09:41:37 PM.262: 
+09:41:38 PM.176: xcompcap: [window-capture: 'teams'] update settings:
+09:41:38 PM.176: 	title: Chemistry (Meeting) | Microsoft Teams
+09:41:38 PM.176: 	class: microsoft teams - preview
+09:41:38 PM.176: 	Bit depth: 24
+09:41:38 PM.176: 	Found proper GLXFBConfig (in 24): yes
+09:41:38 PM.176: 
+09:43:15 PM.957: xcompcap: [window-capture: 'teams'] update settings:
+09:43:15 PM.957: 	title: Chemistry (Meeting) | Microsoft Teams
+09:43:15 PM.957: 	class: microsoft teams - preview
+09:43:15 PM.957: 	Bit depth: 24
+09:43:15 PM.957: 	Found proper GLXFBConfig (in 24): yes
+09:43:15 PM.957: 
+09:43:16 PM.050: xcompcap: [window-capture: 'teams'] update settings:
+09:43:16 PM.050: 	title: Chemistry (Meeting) | Microsoft Teams
+09:43:16 PM.050: 	class: microsoft teams - preview
+09:43:16 PM.050: 	Bit depth: 24
+09:43:16 PM.050: 	Found proper GLXFBConfig (in 24): yes
+09:43:16 PM.050: 
+09:44:03 PM.273: xcompcap: [window-capture: 'teams'] update settings:
+09:44:03 PM.273: 	title: Chemistry (Meeting) | Microsoft Teams
+09:44:03 PM.273: 	class: microsoft teams - preview
+09:44:03 PM.273: 	Bit depth: 24
+09:44:03 PM.273: 	Found proper GLXFBConfig (in 24): yes
+09:44:03 PM.273: 
+09:44:05 PM.357: xcompcap: [window-capture: 'teams'] update settings:
+09:44:05 PM.357: 	title: Chemistry (Meeting) | Microsoft Teams
+09:44:05 PM.357: 	class: microsoft teams - preview
+09:44:05 PM.357: 	Bit depth: 24
+09:44:05 PM.357: 	Found proper GLXFBConfig (in 24): yes
+09:44:05 PM.357: 
+09:44:06 PM.663: xcompcap: [window-capture: 'teams'] update settings:
+09:44:06 PM.663: 	title: Chemistry (Meeting) | Microsoft Teams
+09:44:06 PM.663: 	class: microsoft teams - preview
+09:44:06 PM.663: 	Bit depth: 24
+09:44:06 PM.663: 	Found proper GLXFBConfig (in 24): yes
+09:44:06 PM.663: 
+09:45:41 PM.154: xcompcap: [window-capture: 'teams'] update settings:
+09:45:41 PM.154: 	title: Chemistry (Meeting) | Microsoft Teams
+09:45:41 PM.154: 	class: microsoft teams - preview
+09:45:41 PM.154: 	Bit depth: 24
+09:45:41 PM.154: 	Found proper GLXFBConfig (in 24): yes
+09:45:41 PM.154: 
+09:46:14 PM.482: xcompcap: [window-capture: 'teams'] update settings:
+09:46:14 PM.482: 	title: Chemistry (Meeting) | Microsoft Teams
+09:46:14 PM.482: 	class: microsoft teams - preview
+09:46:14 PM.482: 	Bit depth: 24
+09:46:14 PM.482: 	Found proper GLXFBConfig (in 24): yes
+09:46:14 PM.482: 
+09:46:55 PM.765: xcompcap: [window-capture: 'teams'] update settings:
+09:46:55 PM.765: 	title: Chemistry (Meeting) | Microsoft Teams
+09:46:55 PM.765: 	class: microsoft teams - preview
+09:46:55 PM.765: 	Bit depth: 24
+09:46:55 PM.765: 	Found proper GLXFBConfig (in 24): yes
+09:46:55 PM.765: 
+09:46:57 PM.688: xcompcap: [window-capture: 'teams'] update settings:
+09:46:57 PM.688: 	title: Chemistry (Meeting) | Microsoft Teams
+09:46:57 PM.688: 	class: microsoft teams - preview
+09:46:57 PM.688: 	Bit depth: 24
+09:46:57 PM.688: 	Found proper GLXFBConfig (in 24): yes
+09:46:57 PM.688: 
+09:47:09 PM.968: xcompcap: [window-capture: 'teams'] update settings:
+09:47:09 PM.968: 	title: Chemistry (Meeting) | Microsoft Teams
+09:47:09 PM.968: 	class: microsoft teams - preview
+09:47:09 PM.968: 	Bit depth: 24
+09:47:09 PM.968: 	Found proper GLXFBConfig (in 24): yes
+09:47:09 PM.968: 
+09:47:10 PM.010: xcompcap: [window-capture: 'teams'] update settings:
+09:47:10 PM.010: 	title: Chemistry (Meeting) | Microsoft Teams
+09:47:10 PM.010: 	class: microsoft teams - preview
+09:47:10 PM.010: 	Bit depth: 24
+09:47:10 PM.010: 	Found proper GLXFBConfig (in 24): yes
+09:47:10 PM.010: 
+09:47:10 PM.928: xcompcap: [window-capture: 'teams'] update settings:
+09:47:10 PM.928: 	title: Chemistry (Meeting) | Microsoft Teams
+09:47:10 PM.928: 	class: microsoft teams - preview
+09:47:10 PM.928: 	Bit depth: 24
+09:47:10 PM.928: 	Found proper GLXFBConfig (in 24): yes
+09:47:10 PM.928: 
+09:48:17 PM.285: xcompcap: [window-capture: 'teams'] update settings:
+09:48:17 PM.285: 	title: Chemistry (Meeting) | Microsoft Teams
+09:48:17 PM.285: 	class: microsoft teams - preview
+09:48:17 PM.285: 	Bit depth: 24
+09:48:17 PM.285: 	Found proper GLXFBConfig (in 24): yes
+09:48:17 PM.285: 
+09:48:19 PM.860: xcompcap: [window-capture: 'teams'] update settings:
+09:48:19 PM.860: 	title: Chemistry (Meeting) | Microsoft Teams
+09:48:19 PM.860: 	class: microsoft teams - preview
+09:48:19 PM.860: 	Bit depth: 24
+09:48:19 PM.860: 	Found proper GLXFBConfig (in 24): yes
+09:48:19 PM.860: 
+09:48:25 PM.075: xcompcap: [window-capture: 'teams'] update settings:
+09:48:25 PM.075: 	title: Chemistry (Meeting) | Microsoft Teams
+09:48:25 PM.075: 	class: microsoft teams - preview
+09:48:25 PM.075: 	Bit depth: 24
+09:48:25 PM.075: 	Found proper GLXFBConfig (in 24): yes
+09:48:25 PM.075: 
+09:48:44 PM.090: xcompcap: [window-capture: 'teams'] update settings:
+09:48:44 PM.090: 	title: Chemistry (Meeting) | Microsoft Teams
+09:48:44 PM.090: 	class: microsoft teams - preview
+09:48:44 PM.090: 	Bit depth: 24
+09:48:44 PM.090: 	Found proper GLXFBConfig (in 24): yes
+09:48:44 PM.090: 
+09:55:45 PM.155: xcompcap: [window-capture: 'teams'] update settings:
+09:55:45 PM.155: 	title: Chemistry (Meeting) | Microsoft Teams
+09:55:45 PM.155: 	class: microsoft teams - preview
+09:55:45 PM.155: 	Bit depth: 24
+09:55:45 PM.155: 	Found proper GLXFBConfig (in 24): yes
+09:55:45 PM.155: 
+09:55:50 PM.261: xcompcap: [window-capture: 'teams'] update settings:
+09:55:50 PM.261: 	title: Chemistry (Meeting) | Microsoft Teams
+09:55:50 PM.261: 	class: microsoft teams - preview
+09:55:50 PM.261: 	Bit depth: 24
+09:55:50 PM.261: 	Found proper GLXFBConfig (in 24): yes
+09:55:50 PM.261: 
+09:55:50 PM.842: xcompcap: [window-capture: 'teams'] update settings:
+09:55:50 PM.842: 	title: Chemistry (Meeting) | Microsoft Teams
+09:55:50 PM.842: 	class: microsoft teams - preview
+09:55:50 PM.842: 	Bit depth: 24
+09:55:50 PM.842: 	Found proper GLXFBConfig (in 24): yes
+09:55:50 PM.842: 
+09:55:52 PM.196: xcompcap: [window-capture: 'teams'] update settings:
+09:55:52 PM.196: 	title: Chemistry (Meeting) | Microsoft Teams
+09:55:52 PM.196: 	class: microsoft teams - preview
+09:55:52 PM.196: 	Bit depth: 24
+09:55:52 PM.196: 	Found proper GLXFBConfig (in 24): yes
+09:55:52 PM.196: 
+10:02:42 PM.629: xcompcap: [window-capture: 'teams'] update settings:
+10:02:42 PM.629: 	title: Chemistry (Meeting) | Microsoft Teams
+10:02:42 PM.629: 	class: microsoft teams - preview
+10:02:42 PM.629: 	Bit depth: 24
+10:02:42 PM.629: 	Found proper GLXFBConfig (in 24): yes
+10:02:42 PM.629: 
+10:02:42 PM.665: xcompcap: [window-capture: 'teams'] update settings:
+10:02:42 PM.665: 	title: Chemistry (Meeting) | Microsoft Teams
+10:02:42 PM.665: 	class: microsoft teams - preview
+10:02:42 PM.665: 	Bit depth: 24
+10:02:42 PM.665: 	Found proper GLXFBConfig (in 24): yes
+10:02:42 PM.665: 
+10:02:47 PM.761: xcompcap: [window-capture: 'teams'] update settings:
+10:02:47 PM.761: 	title: Chemistry (Meeting) | Microsoft Teams
+10:02:47 PM.761: 	class: microsoft teams - preview
+10:02:47 PM.761: 	Bit depth: 24
+10:02:47 PM.761: 	Found proper GLXFBConfig (in 24): yes
+10:02:47 PM.761: 
+10:06:45 PM.637: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sahith/2021-06-09 21-31-12.mkv' stopped
+10:06:45 PM.637: Output 'simple_file_output': stopping
+10:06:45 PM.637: Output 'simple_file_output': Total frames output: 63369
+10:06:45 PM.637: Output 'simple_file_output': Total drawn frames: 45197 (63989 attempted)
+10:06:45 PM.637: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 18792 (29.4%)
+10:06:45 PM.643: ==== Recording Stop ================================================
+10:06:45 PM.651: Video stopped, number of skipped frames due to encoding lag: 37151/63969 (58.1%)
+10:06:45 PM.710: libfdk_aac encoder destroyed
+10:06:47 PM.366: ---------------------------------
+10:06:47 PM.366: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+10:06:47 PM.369: [x264 encoder: 'simple_h264_recording'] profile: high
+10:06:47 PM.372: [x264 encoder: 'simple_h264_recording'] settings:
+10:06:47 PM.372: 	rate_control: CRF
+10:06:47 PM.372: 	bitrate:      0
+10:06:47 PM.372: 	buffer size:  0
+10:06:47 PM.372: 	crf:          18
+10:06:47 PM.372: 	fps_num:      30
+10:06:47 PM.372: 	fps_den:      1
+10:06:47 PM.372: 	width:        852
+10:06:47 PM.372: 	height:       480
+10:06:47 PM.372: 	keyint:       250
+10:06:47 PM.372: 
+10:06:47 PM.393: libfdk_aac encoder created
+10:06:47 PM.393: libfdk_aac bitrate: 192, channels: 2
+10:06:47 PM.419: ==== Recording Start ===============================================
+10:06:47 PM.419: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/sahith/2021-06-09 22-06-47.mkv'...
+10:10:50 PM.546: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/sahith/2021-06-09 22-06-47.mkv' stopped
+10:10:50 PM.547: Output 'simple_file_output': stopping
+10:10:50 PM.547: Output 'simple_file_output': Total frames output: 7125
+10:10:50 PM.547: Output 'simple_file_output': Total drawn frames: 4790 (7292 attempted)
+10:10:50 PM.547: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2502 (34.3%)
+10:10:50 PM.672: ==== Recording Stop ================================================
+10:10:50 PM.845: Video stopped, number of skipped frames due to encoding lag: 1938/7222 (26.8%)
+10:10:51 PM.603: libfdk_aac encoder destroyed
+10:11:06 PM.993: ==== Shutting down ==================================================
+10:11:06 PM.995: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 168404
+10:11:06 PM.995: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 168405
+10:11:07 PM.000: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+10:11:07 PM.000: pulse-input: Got 595959 packets with 91913006 frames
+10:11:07 PM.001: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+10:11:07 PM.001: pulse-input: Got 469454 packets with 107821400 frames
+10:11:07 PM.005: All scene data cleared
+10:11:07 PM.005: ------------------------------------------------
+10:11:07 PM.107: [Scripting] Total detached callbacks: 0
+10:11:07 PM.116: Freeing OBS context data
+10:11:07 PM.203: == Profiler Results =============================
+10:11:07 PM.203: run_program_init: 895.993 ms
+10:11:07 PM.203:  ┣OBSApp::AppInit: 21.102 ms
+10:11:07 PM.203:  ┃ ┗OBSApp::InitLocale: 0.969 ms
+10:11:07 PM.203:  ┗OBSApp::OBSInit: 812.578 ms
+10:11:07 PM.203:    ┣obs_startup: 14.796 ms
+10:11:07 PM.203:    ┗OBSBasic::OBSInit: 721.223 ms
+10:11:07 PM.203:      ┣OBSBasic::InitBasicConfig: 1.158 ms
+10:11:07 PM.203:      ┣OBSBasic::ResetAudio: 0.284 ms
+10:11:07 PM.203:      ┣OBSBasic::ResetVideo: 419.147 ms
+10:11:07 PM.203:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+10:11:07 PM.203:      ┣OBSBasic::InitHotkeys: 0.041 ms
+10:11:07 PM.203:      ┣obs_load_all_modules: 159.554 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(decklink-captions.so): 0.028 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.764 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(frontend-tools.so): 100.754 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(image-source.so): 0.006 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-capture.so): 0.349 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-decklink.so): 0.174 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-jack.so): 0.002 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(linux-v4l2.so): 2.462 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.253 ms
+10:11:07 PM.203:      ┃ ┃ ┗nvenc_check: 0.225 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-filters.so): 0.026 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-transitions.so): 0.019 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+10:11:07 PM.203:      ┃ ┣obs_init_module(rtmp-services.so): 0.185 ms
+10:11:07 PM.203:      ┃ ┗obs_init_module(text-freetype2.so): 0.067 ms
+10:11:07 PM.203:      ┣OBSBasic::ResetOutputs: 0.109 ms
+10:11:07 PM.204:      ┣OBSBasic::CreateHotkeys: 0.035 ms
+10:11:07 PM.204:      ┣OBSBasic::InitService: 1.518 ms
+10:11:07 PM.204:      ┣OBSBasic::InitPrimitives: 0.21 ms
+10:11:07 PM.204:      ┗OBSBasic::Load: 8.233 ms
+10:11:07 PM.204: obs_hotkey_thread(25 ms): min=0.104 ms, median=2.318 ms, max=611.485 ms, 99th percentile=102.265 ms, 88.4713% below 25 ms
+10:11:07 PM.204: audio_thread(Audio): min=0 ms, median=2.364 ms, max=851.748 ms, 99th percentile=116.064 ms
+10:11:07 PM.204:  ┗receive_audio: min=0.003 ms, median=1.348 ms, max=160.654 ms, 99th percentile=31.959 ms, 1.38786 calls per parent call
+10:11:07 PM.204:    ┣buffer_audio: min=0 ms, median=0.006 ms, max=47.682 ms, 99th percentile=0.056 ms
+10:11:07 PM.204:    ┗do_encode: min=0.015 ms, median=1.317 ms, max=160.521 ms, 99th percentile=31.505 ms
+10:11:07 PM.204:      ┣encode(test_aac): min=0.015 ms, median=0.198 ms, max=29.751 ms, 99th percentile=0.567 ms, 0.00621661 calls per parent call
+10:11:07 PM.204:      ┗encode(simple_aac_recording): min=0.113 ms, median=1.118 ms, max=143.587 ms, 99th percentile=25.485 ms
+10:11:07 PM.204: obs_graphics_thread(33.3333 ms): min=0.114 ms, median=0.685 ms, max=34.017 ms, 99th percentile=9.643 ms, 99.6885% below 33.333 ms
+10:11:07 PM.204:  ┣tick_sources: min=0 ms, median=0.014 ms, max=0.045 ms, 99th percentile=0.035 ms
+10:11:07 PM.204:  ┣output_frame: min=0.086 ms, median=0.136 ms, max=31.163 ms, 99th percentile=0.385 ms
+10:11:07 PM.204:  ┃ ┗gs_context(video->graphics): min=0.086 ms, median=0.136 ms, max=31.162 ms, 99th percentile=0.384 ms
+10:11:07 PM.204:  ┃   ┣render_video: min=0.042 ms, median=0.081 ms, max=31.072 ms, 99th percentile=0.266 ms
+10:11:07 PM.204:  ┃   ┃ ┗render_main_texture: min=0.037 ms, median=0.075 ms, max=31.064 ms, 99th percentile=0.244 ms
+10:11:07 PM.204:  ┃   ┗gs_flush: min=0.03 ms, median=0.048 ms, max=0.173 ms, 99th percentile=0.144 ms
+10:11:07 PM.204:  ┗render_displays: min=0.003 ms, median=0.474 ms, max=33.873 ms, 99th percentile=2.529 ms
+10:11:07 PM.204: obs_graphics_thread(33.3333 ms): min=0.504 ms, median=1.255 ms, max=76.399 ms, 99th percentile=16.556 ms, 99.3506% below 33.333 ms
+10:11:07 PM.204:  ┣tick_sources: min=0.006 ms, median=0.013 ms, max=0.038 ms, 99th percentile=0.024 ms
+10:11:07 PM.204:  ┣output_frame: min=0.192 ms, median=0.432 ms, max=75.719 ms, 99th percentile=13.315 ms
+10:11:07 PM.204:  ┃ ┣gs_context(video->graphics): min=0.191 ms, median=0.328 ms, max=75.719 ms, 99th percentile=12.935 ms
+10:11:07 PM.204:  ┃ ┃ ┣render_video: min=0.133 ms, median=0.261 ms, max=75.553 ms, 99th percentile=3.44 ms
+10:11:07 PM.204:  ┃ ┃ ┃ ┣render_main_texture: min=0.106 ms, median=0.138 ms, max=3.205 ms, 99th percentile=1.276 ms
+10:11:07 PM.204:  ┃ ┃ ┃ ┣render_output_texture: min=0.036 ms, median=0.041 ms, max=17.517 ms, 99th percentile=0.186 ms
+10:11:07 PM.204:  ┃ ┃ ┃ ┣render_convert_texture: min=0.039 ms, median=0.043 ms, max=55.398 ms, 99th percentile=0.143 ms
+10:11:07 PM.204:  ┃ ┃ ┃ ┗stage_output_texture: min=0.026 ms, median=0.028 ms, max=2.519 ms, 99th percentile=0.175 ms
+10:11:07 PM.204:  ┃ ┃ ┣gs_flush: min=0.044 ms, median=0.052 ms, max=3.615 ms, 99th percentile=2.492 ms
+10:11:07 PM.205:  ┃ ┃ ┗download_frame: min=0.001 ms, median=0.005 ms, max=9.49 ms, 99th percentile=9.344 ms
+10:11:07 PM.205:  ┃ ┗output_video_data: min=0.086 ms, median=0.104 ms, max=2.983 ms, 99th percentile=2.486 ms
+10:11:07 PM.205:  ┗render_displays: min=0.252 ms, median=0.746 ms, max=14.509 ms, 99th percentile=4.744 ms
+10:11:07 PM.205: video_thread(video): min=0.631 ms, median=0.804 ms, max=63.268 ms, 99th percentile=3.27 ms
+10:11:07 PM.205:  ┗receive_video: min=0.63 ms, median=0.803 ms, max=61.386 ms, 99th percentile=3.267 ms
+10:11:07 PM.205:    ┗do_encode: min=0.629 ms, median=0.801 ms, max=61.384 ms, 99th percentile=3.265 ms
+10:11:07 PM.205:      ┗encode(test_x264): min=0.598 ms, median=0.763 ms, max=61.375 ms, 99th percentile=3.105 ms
+10:11:07 PM.205: obs_graphics_thread(16.6667 ms): min=0.656 ms, median=2.17 ms, max=37.52 ms, 99th percentile=34.904 ms, 69.2884% below 16.667 ms
+10:11:07 PM.205:  ┣tick_sources: min=0.006 ms, median=0.009 ms, max=0.15 ms, 99th percentile=0.026 ms
+10:11:07 PM.205:  ┣output_frame: min=0.225 ms, median=0.607 ms, max=32.085 ms, 99th percentile=30.696 ms
+10:11:07 PM.205:  ┃ ┣gs_context(video->graphics): min=0.225 ms, median=0.451 ms, max=31.939 ms, 99th percentile=30.504 ms
+10:11:07 PM.205:  ┃ ┃ ┣render_video: min=0.158 ms, median=0.281 ms, max=2.25 ms, 99th percentile=1.076 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_main_texture: min=0.101 ms, median=0.139 ms, max=0.8 ms, 99th percentile=0.624 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_output_texture: min=0.036 ms, median=0.05 ms, max=1.377 ms, 99th percentile=0.644 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_convert_texture: min=0.04 ms, median=0.06 ms, max=0.411 ms, 99th percentile=0.206 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┗stage_output_texture: min=0.025 ms, median=0.034 ms, max=0.282 ms, 99th percentile=0.132 ms
+10:11:07 PM.205:  ┃ ┃ ┣gs_flush: min=0.04 ms, median=0.068 ms, max=12.199 ms, 99th percentile=6.573 ms
+10:11:07 PM.205:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=25.483 ms, 99th percentile=24.452 ms
+10:11:07 PM.205:  ┃ ┗output_video_data: min=0.054 ms, median=0.15 ms, max=2.185 ms, 99th percentile=0.386 ms
+10:11:07 PM.205:  ┗render_displays: min=0.329 ms, median=1.29 ms, max=18.847 ms, 99th percentile=10.214 ms
+10:11:07 PM.205: video_thread(video): min=0.414 ms, median=0.722 ms, max=10.704 ms, 99th percentile=7.106 ms
+10:11:07 PM.205:  ┗receive_video: min=0.412 ms, median=0.712 ms, max=7.833 ms, 99th percentile=5.808 ms, 1.14122 calls per parent call
+10:11:07 PM.205:    ┗do_encode: min=0.411 ms, median=0.709 ms, max=7.832 ms, 99th percentile=5.807 ms
+10:11:07 PM.205:      ┗encode(test_x264): min=0.399 ms, median=0.686 ms, max=7.805 ms, 99th percentile=5.781 ms
+10:11:07 PM.205: obs_graphics_thread(33.3333 ms): min=0.753 ms, median=1.819 ms, max=7.037 ms, 99th percentile=6.433 ms, 100% below 33.333 ms
+10:11:07 PM.205:  ┣tick_sources: min=0.006 ms, median=0.008 ms, max=0.053 ms, 99th percentile=0.023 ms
+10:11:07 PM.205:  ┣output_frame: min=0.131 ms, median=0.5 ms, max=1.189 ms, 99th percentile=1.159 ms
+10:11:07 PM.205:  ┃ ┣gs_context(video->graphics): min=0.13 ms, median=0.338 ms, max=0.984 ms, 99th percentile=0.876 ms
+10:11:07 PM.205:  ┃ ┃ ┣render_video: min=0.071 ms, median=0.261 ms, max=0.845 ms, 99th percentile=0.784 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_main_texture: min=0.067 ms, median=0.134 ms, max=0.443 ms, 99th percentile=0.423 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_output_texture: min=0.036 ms, median=0.041 ms, max=0.19 ms, 99th percentile=0.152 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┣render_convert_texture: min=0.04 ms, median=0.043 ms, max=0.256 ms, 99th percentile=0.183 ms
+10:11:07 PM.205:  ┃ ┃ ┃ ┗stage_output_texture: min=0.025 ms, median=0.028 ms, max=0.104 ms, 99th percentile=0.097 ms
+10:11:07 PM.205:  ┃ ┃ ┣gs_flush: min=0.047 ms, median=0.063 ms, max=0.167 ms, 99th percentile=0.163 ms
+10:11:07 PM.205:  ┃ ┃ ┗download_frame: min=0 ms, median=0.005 ms, max=0.016 ms, 99th percentile=0.014 ms
+10:11:07 PM.205:  ┃ ┗output_video_data: min=0.051 ms, median=0.161 ms, max=0.309 ms, 99th percentile=0.293 ms
+10:11:07 PM.205:  ┗render_displays: min=0.374 ms, median=1.167 ms, max=6.342 ms, 99th percentile=5.976 ms
+10:11:07 PM.205: video_thread(video): min=0.343 ms, median=0.77 ms, max=1.618 ms, 99th percentile=1.307 ms
+10:11:07 PM.205:  ┗receive_video: min=0.341 ms, median=0.767 ms, max=1.615 ms, 99th percentile=1.304 ms
+10:11:07 PM.205:    ┗do_encode: min=0.34 ms, median=0.764 ms, max=1.611 ms, 99th percentile=1.301 ms
+10:11:07 PM.205:      ┗encode(test_x264): min=0.321 ms, median=0.734 ms, max=1.609 ms, 99th percentile=1.269 ms
+10:11:07 PM.205: obs_graphics_thread(33.3333 ms): min=0.41 ms, median=0.651 ms, max=2.687 ms, 99th percentile=2.687 ms, 100% below 33.333 ms
+10:11:07 PM.205:  ┣tick_sources: min=0.006 ms, median=0.015 ms, max=0.024 ms, 99th percentile=0.024 ms
+10:11:07 PM.205:  ┣output_frame: min=0.101 ms, median=0.141 ms, max=0.511 ms, 99th percentile=0.511 ms
+10:11:07 PM.205:  ┃ ┗gs_context(video->graphics): min=0.101 ms, median=0.14 ms, max=0.511 ms, 99th percentile=0.511 ms
+10:11:07 PM.205:  ┃   ┣render_video: min=0.058 ms, median=0.091 ms, max=0.179 ms, 99th percentile=0.179 ms
+10:11:07 PM.205:  ┃   ┃ ┗render_main_texture: min=0.054 ms, median=0.083 ms, max=0.169 ms, 99th percentile=0.169 ms
+10:11:07 PM.205:  ┃   ┗gs_flush: min=0.032 ms, median=0.042 ms, max=0.345 ms, 99th percentile=0.345 ms
+10:11:07 PM.205:  ┗render_displays: min=0.249 ms, median=0.449 ms, max=2.529 ms, 99th percentile=2.529 ms
+10:11:07 PM.205: OBSBasic::ResetVideo: 69.969 ms
+10:11:07 PM.206: obs_graphics_thread(33.3333 ms): min=0.356 ms, median=30.094 ms, max=781.24 ms, 99th percentile=203.877 ms, 55.6194% below 33.333 ms
+10:11:07 PM.206:  ┣tick_sources: min=0.003 ms, median=2.047 ms, max=391.662 ms, 99th percentile=54.133 ms
+10:11:07 PM.206:  ┣output_frame: min=0.089 ms, median=6.973 ms, max=241.675 ms, 99th percentile=91.017 ms
+10:11:07 PM.206:  ┃ ┣gs_context(video->graphics): min=0.089 ms, median=5.167 ms, max=241.577 ms, 99th percentile=87.019 ms
+10:11:07 PM.206:  ┃ ┃ ┣render_video: min=0.05 ms, median=2.278 ms, max=204.587 ms, 99th percentile=50.786 ms
+10:11:07 PM.206:  ┃ ┃ ┃ ┣render_main_texture: min=0.047 ms, median=1.057 ms, max=167.363 ms, 99th percentile=28.173 ms
+10:11:07 PM.206:  ┃ ┃ ┃ ┣render_output_texture: min=0.027 ms, median=0.258 ms, max=75.148 ms, 99th percentile=16.108 ms
+10:11:07 PM.206:  ┃ ┃ ┃ ┣render_convert_texture: min=0.039 ms, median=0.287 ms, max=112.527 ms, 99th percentile=17.05 ms
+10:11:07 PM.206:  ┃ ┃ ┃ ┗stage_output_texture: min=0.02 ms, median=0.187 ms, max=94.443 ms, 99th percentile=9.489 ms
+10:11:07 PM.206:  ┃ ┃ ┣gs_flush: min=0.02 ms, median=0.413 ms, max=159.152 ms, 99th percentile=41.723 ms
+10:11:07 PM.206:  ┃ ┃ ┗download_frame: min=0 ms, median=0.029 ms, max=117.051 ms, 99th percentile=24.761 ms
+10:11:07 PM.206:  ┃ ┗output_video_data: min=0 ms, median=0.195 ms, max=95.181 ms, 99th percentile=19.763 ms
+10:11:07 PM.206:  ┗render_displays: min=0.007 ms, median=11.449 ms, max=635.92 ms, 99th percentile=103.965 ms
+10:11:07 PM.206: OBSBasic::ResetOutputs: 0.117 ms
+10:11:07 PM.207: video_thread(video): min=0.001 ms, median=3.951 ms, max=21922.3 ms, 99th percentile=1112.17 ms
+10:11:07 PM.207:  ┗receive_video: min=0.41 ms, median=8.131 ms, max=1785.73 ms, 99th percentile=214.462 ms, 2.61947 calls per parent call
+10:11:07 PM.207:    ┗do_encode: min=0.409 ms, median=8.115 ms, max=1785.72 ms, 99th percentile=214.46 ms
+10:11:07 PM.207:      ┗encode(simple_h264_recording): min=0.397 ms, median=7.451 ms, max=1784.56 ms, 99th percentile=213.575 ms
+10:11:07 PM.207: =================================================
+10:11:07 PM.207: == Profiler Time Between Calls ==================
+10:11:07 PM.207: obs_hotkey_thread(25 ms): min=25.158 ms, median=28.77 ms, max=643.928 ms, 14.0318% within ±2% of 25 ms (0% lower, 85.9682% higher)
+10:11:07 PM.207: obs_graphics_thread(33.3333 ms): min=32.667 ms, median=33.333 ms, max=34.025 ms, 99.6875% within ±2% of 33.333 ms (0% lower, 0.3125% higher)
+10:11:07 PM.207: obs_graphics_thread(33.3333 ms): min=23.59 ms, median=33.332 ms, max=76.409 ms, 97.3856% within ±2% of 33.333 ms (1.30719% lower, 1.30719% higher)
+10:11:07 PM.207: obs_graphics_thread(16.6667 ms): min=11.878 ms, median=16.673 ms, max=37.545 ms, 63.1579% within ±2% of 16.667 ms (6.76692% lower, 30.0752% higher)
+10:11:07 PM.207: obs_graphics_thread(33.3333 ms): min=30.869 ms, median=33.333 ms, max=35.796 ms, 98.6755% within ±2% of 33.333 ms (0.662252% lower, 0.662252% higher)
+10:11:07 PM.207: obs_graphics_thread(33.3333 ms): min=33.281 ms, median=33.335 ms, max=33.384 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+10:11:07 PM.207: obs_graphics_thread(33.3333 ms): min=5.134 ms, median=33.397 ms, max=781.634 ms, 34.9831% within ±2% of 33.333 ms (18.8144% lower, 46.2025% higher)
+10:11:07 PM.207: =================================================

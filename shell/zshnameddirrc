@@ -12,6 +12,7 @@ hash -d sc=/home/sahith/.local/bin
 hash -d src=/home/sahith/.local/src 
 hash -d vv=/home/sahith/Videos 
 hash -d V=/home/sahith/vimwiki 
+hash -d gg=/home/sahith/Games 
 hash -d bf=/home/sahith/.config/shell/bm-files 
 hash -d bd=/home/sahith/.config/shell/bm-dirs 
 hash -d cfx=/home/sahith/.config/x11/xresources 

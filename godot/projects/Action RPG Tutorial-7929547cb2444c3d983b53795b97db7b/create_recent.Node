@@ -1,0 +1,16 @@
+AnimatedSprite
+Node
+CollisionShape2D
+Sprite
+KinematicBody2D
+KinematicBody
+Position2D
+Area2D
+YSort
+TileMap
+TextureRect
+Node2D
+AnimationTree
+AnimationPlayer
+StaticBody2D
+CollisionPolygon2D

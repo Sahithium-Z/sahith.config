@@ -13,6 +13,7 @@ sc="cd /home/sahith/.local/bin && ls -a" \
 src="cd /home/sahith/.local/src && ls -a" \
 vv="cd /home/sahith/Videos && ls -a" \
 V="cd /home/sahith/vimwiki && ls -a" \
+gg="cd /home/sahith/Games && ls -a" \
 bf="$EDITOR /home/sahith/.config/shell/bm-files" \
 bd="$EDITOR /home/sahith/.config/shell/bm-dirs" \
 cfx="$EDITOR /home/sahith/.config/x11/xresources" \

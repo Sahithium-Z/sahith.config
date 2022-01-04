@@ -93,8 +93,7 @@ map J $lf -remote "send $id cd $(cut -d'	' -f2 ${XDG_CONFIG_HOME:-$HOME/.config}
 map n up
 map t down
 map s open
-map gh
-map g top
+map gg top
 map D delete
 map E extract
 map C copyto
@@ -108,12 +107,13 @@ map X !$f
 map o &mimeopen $f
 map O $mimeopen --ask $f
 map A rename # at the very end
-map c push A<c-u> # new rename
+map R push A<c-u> # new rename
 map I push A<c-a> # at the very beginning
 map i push A<a-b><a-b><a-f> # before extention
 map a push A<a-b> # after extention
 map B bulkrename
 map b $setbg $f
+map c
 
 map <c-e> down
 map <c-y> up

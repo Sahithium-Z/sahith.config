@@ -35,7 +35,7 @@ config.load_autoconfig(True)
 #   - no-3rdparty: Accept cookies from the same origin only. This is known to break some sites, such as GMail.
 #   - no-unknown-3rdparty: Accept cookies from the same origin only, unless a cookie is already set for the domain. On QtWebEngine, this is the same as no-3rdparty.
 #   - never: Don't accept cookies at all.
-config.set('content.cookies.accept', 'all', 'chrome-devtools://*')
+config.set('content.cookies.accept', 'no-3rdparty', 'chrome-devtools://*')
 
 # Which cookies to accept. With QtWebEngine, this setting also controls
 # other features with tracking capabilities similar to those of cookies;
@@ -59,7 +59,7 @@ config.set('content.cookies.accept', 'all', 'chrome-devtools://*')
 #   - no-3rdparty: Accept cookies from the same origin only. This is known to break some sites, such as GMail.
 #   - no-unknown-3rdparty: Accept cookies from the same origin only, unless a cookie is already set for the domain. On QtWebEngine, this is the same as no-3rdparty.
 #   - never: Don't accept cookies at all.
-config.set('content.cookies.accept', 'all', 'devtools://*')
+config.set('content.cookies.accept', 'no-3rdparty', 'devtools://*')
 
 # Value to send in the `Accept-Language` header. Note that the value
 # read from JavaScript is always the global value.
@@ -80,7 +80,7 @@ config.set('content.headers.accept_language', '', 'https://matchmaker.krunker.io
 # between 5.12 and 5.14 (inclusive), changing the value exposed to
 # JavaScript requires a restart.
 # Type: FormatString
-c.content.headers.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+c.content.headers.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36'
 
 # User agent to send.  The following placeholders are defined:  *
 # `{os_info}`: Something like "X11; Linux x86_64". * `{webkit_version}`:
@@ -133,10 +133,6 @@ config.set('content.headers.user_agent', 'Mozilla/5.0 ({os_info}) AppleWebKit/53
 # Enable the ad/host blocker
 # Type: Bool
 c.content.blocking.enabled = True
-
-# Enable the ad/host blocker
-# Type: Bool
-config.set('content.blocking.enabled', False, '*://*.bulbapedia.bulbagarden.net/*')
 
 # Enable the ad/host blocker
 # Type: Bool
@@ -341,13 +337,14 @@ c.url.start_pages = 'about:blank'
 # from Chromium's `chrome://flags`:  - "With simple HSL/CIELAB/RGB-based
 # inversion": Set   `colors.webpage.darkmode.algorithm` accordingly.  -
 # "With selective image inversion": Set
-# `colors.webpage.darkmode.policy.images` to `smart`.  - "With selective
+c.colors.webpage.darkmode.policy.images = 'never'
+#- "With selective
 # inversion of non-image elements": Set
 # `colors.webpage.darkmode.threshold.text` to 150 and
 # `colors.webpage.darkmode.threshold.background` to 205.  - "With
 # selective inversion of everything": Combines the two variants   above.
 # Type: Bool
-c.colors.webpage.darkmode.enabled = True
+#c.colors.webpage.darkmode.enabled = True
 
 # Bindings for normal mode
 config.bind(';D', 'hint images download')
@@ -390,6 +387,8 @@ config.bind('t', 'scroll down')
 config.bind('u', 'scroll-page 0 -1')
 config.bind('x', 'tab-close')
 config.bind('yf', 'hint links yank')
+config.bind('R', 'spawn --userscript readability-js')
+config.bind(';a', 'hint links userscript readability-js')
 
 #Dracula Theme
 #import dracula.draw
@@ -697,3 +696,6 @@ c.colors.tabs.selected.even.bg = base00
 # Background color for webpages if unset (or empty to use the theme's
 # color).
 # c.colors.webpage.bg = base00
+
+#Geolocation
+config.set('content.geolocation', False)

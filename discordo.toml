@@ -1,0 +1,43 @@
+token = "NTk3NzA2MTk4MDQ5MDk1Njgw.YXjHQA.-XPiHIW5LPEPMC120CPb0bOt2aY"
+user_agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"
+mouse = true
+notifications = true
+get_messages_limit = 50
+
+[theme]
+  background = "black"
+  border = "white"
+  title = "white"
+  graphics = "white"
+  text = "white"
+
+[keybindings]
+  focus_channels_tree = "Ctrl+Left"
+  focus_messages_view = "Ctrl+Right"
+  focus_message_input_field = "Ctrl+Down"
+  select_previous_message = "Rune[n]"
+  select_next_message = "Rune[t]"
+  select_first_message = "Home"
+  select_last_message = "End"
+  reply_selected_message = "Rune[r]"
+  mention_reply_selected_message = "Rune[R]"
+  copy_selected_message = "Rune[c]"
+
+[borders]
+  Horizontal = 9472
+  Vertical = 9474
+  TopLeft = 9484
+  TopRight = 9488
+  BottomLeft = 9492
+  BottomRight = 9496
+  LeftT = 9500
+  RightT = 9508
+  TopT = 9516
+  BottomT = 9524
+  Cross = 9532
+  HorizontalFocus = 9552
+  VerticalFocus = 9553
+  TopLeftFocus = 9556
+  TopRightFocus = 9559
+  BottomLeftFocus = 9562
+  BottomRightFocus = 9565

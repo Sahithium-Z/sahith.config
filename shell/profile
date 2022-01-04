@@ -8,6 +8,7 @@
 # Adds `~/.local/bin` to $PATH
 export PATH="$PATH:${$(find ~/.local/bin -type d -printf %p:)%%:}"
 export PATH="$PATH:$HOME/.local/share/gem/ruby/3.0.0/bin"
+[ -d "$HOME/adb-fastboot/platform-tools" ] && export PATH="$HOME/adb-fastboot/platform-tools:$PATH"
 
 unsetopt PROMPT_SP
 
@@ -15,7 +16,7 @@ unsetopt PROMPT_SP
 export EDITOR="nvim"
 export TERMINAL="st"
 export BROWSER="qutebrowser"
-export MANPAGER="nvim -c 'set ft=man' -"
+# export MANPAGER="nvim -c 'set ft=man' -"
 
 # ~/ Clean-up:
 export XDG_CONFIG_HOME="$HOME/.config"
@@ -60,6 +61,7 @@ export LESS_TERMCAP_se="$(printf '%b' '[0m')"
 export LESS_TERMCAP_us="$(printf '%b' '[1;32m')"
 export LESS_TERMCAP_ue="$(printf '%b' '[0m')"
 export LESSOPEN="| /usr/bin/highlight -O ansi %s 2>/dev/null"
+export NODE_PATH=$NODE_PATH:$(npm root -g)
 export QT_QPA_PLATFORMTHEME="gtk2"	# Have QT use gtk2 theme.
 export RTV_BROWSER="linkhandler"
 export MOZ_USE_XINPUT2="1"		# Mozilla smooth scrolling/touchpads.

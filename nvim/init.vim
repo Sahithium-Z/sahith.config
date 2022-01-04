@@ -11,12 +11,20 @@ call plug#begin(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/plugged"
 Plug 'tpope/vim-surround'
 Plug 'preservim/nerdtree'
 Plug 'junegunn/goyo.vim'
-Plug 'jreybert/vimagit'
-Plug 'lukesmithxyz/vimling'
 Plug 'vimwiki/vimwiki'
 Plug 'bling/vim-airline'
 Plug 'tpope/vim-commentary'
 Plug 'ap/vim-css-color'
+Plug 'lifepillar/vim-mucomplete'
+Plug 'habamax/vim-godot'
+Plug 'neovim/nvim-lspconfig'
+Plug 'hrsh7th/cmp-nvim-lsp'
+Plug 'hrsh7th/cmp-buffer'
+Plug 'hrsh7th/nvim-cmp'
+Plug 'gruvbox-community/gruvbox'
+Plug 'ThePrimeagen/vim-be-good'
+"Plug 'jackguo380/vim-lsp-cxx-highlight'
+
 call plug#end()
 
 set title
@@ -37,6 +45,7 @@ set noshowcmd
 	syntax on
 	set encoding=utf-8
 	set number relativenumber
+	set path+=**
 " Enable autocompletion:
 	set wildmode=longest,list,full
 " Disables automatic commenting on newline:
@@ -44,7 +53,7 @@ set noshowcmd
 " Perform dot commands over visual blocks:
 	vnoremap . :normal .<CR>
 " Goyo plugin makes text more readable when writing prose:
-	map <leader>f :Goyo \| set bg=light \| set linebreak<CR>
+	map <leader>f :Goyo<CR>
 " Spell-check set to <leader>o, 'o' for 'orthography':
 	map <leader>o :setlocal spell! spelllang=en_us<CR>
 " Splits open at the bottom and right, which is non-retarded, unlike vim defaults.
@@ -68,9 +77,9 @@ set noshowcmd
 
 " Shortcutting split navigation, saving a keypress:
 	map <C-h> <C-w>h
-	map <C-j> <C-w>j
-	map <C-k> <C-w>k
-	map <C-l> <C-w>l
+	map <C-t> <C-w>j
+	map <C-n> <C-w>k
+	map <C-s> <C-w>l
 
 " Replace ex mode with gq
 	map Q gq
@@ -122,7 +131,7 @@ set noshowcmd
 	autocmd BufRead,BufNewFile Xresources,Xdefaults,xresources,xdefaults set filetype=xdefaults
 	autocmd BufWritePost Xresources,Xdefaults,xresources,xdefaults !xrdb %
 " Recompile dwmblocks on config edit.
-	autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid -f dwmblocks }
+	" autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/; sudo make install && { killall -q dwmblocks;setsid -f dwmblocks }
 
 " Turns off highlighting on the bits of code that are changed, so the line that is changed is highlighted but the actual text that has changed stands out on the line and is readable.
 if &diff
@@ -147,6 +156,23 @@ function! ToggleHiddenAll()
     endif
 endfunction
 nnoremap <leader>h :call ToggleHiddenAll()<CR>
+
+" Color scheme
+colorscheme evening
+colorscheme gruvbox
+highlight Normal ctermbg=NONE
+nnoremap <leader>g :highlight Normal ctermbg=NONE<CR>
+nnoremap <leader>G :highlight Normal ctermbg=0<CR>
+
+" MUcomplete
+set completeopt+=menuone
+set completeopt+=noselect
+set completeopt+=noinsert
+set shortmess+=c   " Shut off completion messages
+set belloff+=ctrlg " If Vim beeps during completion
+let g:mucomplete#enable_auto_at_startup = 1
+
+"Dvorak Mappings and such
 nnoremap t j
 nnoremap n k
 nnoremap s l
@@ -159,7 +185,28 @@ vnoremap s l
 vnoremap j t
 vnoremap k n
 vnoremap l s
-nnoremap <C-T> <C-W><C-J>
-nnoremap <C-N> <C-W><C-K>
-nnoremap <C-S> <C-W><C-L>
-nnoremap <C-H> <C-W><C-H>
+nnoremap ZW :w<CR>
+inoremap <tab> <C-n>
+inoremap <S-tab> <C-p>
+
+" Godot auto complete
+lua << EOF
+require'lspconfig'.gdscript.setup{capabilities = require('cmp_nvim_lsp').update_capabilities(vim.lsp.protocol.make_client_capabilities())}
+
+local cmp = require'cmp'
+
+cmp.setup({
+  mapping = {
+    ['<C-d>'] = cmp.mapping.scroll_docs(-4),
+    ['<C-f>'] = cmp.mapping.scroll_docs(4),
+    ['<C-Space>'] = cmp.mapping.complete(),
+    ['<C-e>'] = cmp.mapping.close(),
+    ['<CR>'] = cmp.mapping.confirm({ select = true }),
+  },
+
+  sources = {
+    { name = 'nvim_lsp' },
+    { name = 'buffer' },
+  }
+})
+EOF
