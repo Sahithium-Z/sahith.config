@@ -1,0 +1,46 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1681707104
+bottom.tres::TileSet::1681703663::0::1::::<><>::res://placeholder_textures.png<>res://sand_tileset.png<>res://dirt_tileset.png<>res://placeholder_grass.png
+default_env.tres::Environment::1681703663::0::1::::<><>::
+dirt_tileset.png::StreamTexture::1681703663::1681703663::1::::<><>::
+game_unnamed.mp3::AudioStreamMP3::1681703663::1681703663::1::::<><>::
+icon.png::StreamTexture::1681703663::1681703663::1::::<><>::
+Main.gd::GDScript::1681703663::0::1::::<>Node2D<>::
+Main.tscn::PackedScene::1681703663::0::1::::<><>::res://Player.tscn<>res://tileset.tres<>res://Main.gd<>res://Tent.tscn<>res://bottom.tres<>res://ui/UI.tscn<>res://radio/Radio.tscn<>res://radio/Dialogue.tscn<>res://ui/Fade.tscn<>res://ui/Game Over.tscn<>res://game_unnamed.mp3<>res://ui/Control.tscn
+placeholder_grass.png::StreamTexture::1681703663::1681703663::1::::<><>::
+placeholder_tent.png::StreamTexture::1681703663::1681703663::1::::<><>::
+placeholder_textures.png::StreamTexture::1681703663::1681703663::1::::<><>::
+player sprite.png::StreamTexture::1681703663::1681703663::1::::<><>::
+Player.gd::GDScript::1681703663::0::1::::Player<>KinematicBody2D<>::
+Player.tscn::PackedScene::1681703663::0::1::::<><>::res://Player.gd<>res://player_spritesheet.png
+player_spritesheet.png::StreamTexture::1681703663::1681703663::1::::<><>::
+sand_tileset.png::StreamTexture::1681703663::1681703663::1::::<><>::
+Tent.gd::GDScript::1681703663::0::1::::<>StaticBody2D<>::
+Tent.tscn::PackedScene::1681703663::0::1::::<><>::res://placeholder_tent.png<>res://Tent.gd
+test.gd::GDScript::1681703663::0::1::::<>ColorRect<>::
+tileset.tres::TileSet::1681703663::0::1::::<><>::res://placeholder_textures.png<>res://sand_tileset.png<>res://dirt_tileset.png<>res://placeholder_grass.png
+::res://plant/::1681703663
+actualTempSeeds.png::StreamTexture::1681703663::1681703663::1::::<><>::
+plant.gd::GDScript::1681703663::0::1::::Plant<>Area2D<>::
+plant.png::StreamTexture::1681703663::1681703663::1::::<><>::
+plant.tscn::PackedScene::1681703663::0::1::::<><>::res://plant/plant.png<>res://plant/plant.gd
+::res://radio/::1681703663
+Dialogue.gd::GDScript::1681703663::0::1::::<>Control<>::
+Dialogue.tscn::PackedScene::1681703663::0::1::::<><>::res://ui/m5x7.ttf<>res://radio/Dialogue.gd
+Radio.gd::GDScript::1681703663::0::1::::<>StaticBody2D<>::
+Radio.tscn::PackedScene::1681703663::0::1::::<><>::res://radio/RadioSprite.png<>res://radio/Radio.gd
+RadioSprite.png::StreamTexture::1681703663::1681703663::1::::<><>::
+::res://ui/::1681703663
+Connection.otf::DynamicFontData::1681703663::0::1::::<><>::
+Control.tscn::PackedScene::1681703663::0::1::::<><>::res://ui/m5x7.ttf<>res://ui/Controls.gd
+Controls.gd::GDScript::1681703663::0::1::::<>Control<>::
+Fade.tscn::PackedScene::1681703663::0::1::::<><>::res://test.gd<>res://ui/m5x7.ttf
+Game Over.gd::GDScript::1681703663::0::1::::<>Control<>::
+Game Over.tscn::PackedScene::1681703663::0::1::::<><>::res://ui/m5x7.ttf<>res://ui/Game Over.gd
+m5x7.ttf::DynamicFontData::1681703663::0::1::::<><>::
+plant_ui.png::StreamTexture::1681703663::1681703663::1::::<><>::
+pokemon_fire_red.ttf::DynamicFontData::1681703663::0::1::::<><>::
+seedui.png::StreamTexture::1681703663::1681703663::1::::<><>::
+UI.gd::GDScript::1681703663::0::1::::<>Control<>::
+UI.tscn::PackedScene::1681703663::0::1::::<><>::res://ui/UI.gd<>res://ui/m5x7.ttf<>res://ui/seedui.png<>res://ui/plant_ui.png
+::res://~/::1681703663

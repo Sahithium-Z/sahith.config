@@ -1,0 +1,40 @@
+2023/01/23-17:07:30.490 1096 Reusing MANIFEST /home/sahith/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/23-17:07:30.491 1096 Recovering log #22
+2023/01/23-17:07:30.510 1096 Level-0 table #26: started
+2023/01/23-17:07:30.601 1096 Level-0 table #26: 610 bytes OK
+2023/01/23-17:07:30.601 1096 Recovering log #26
+2023/01/23-17:07:30.602 1096 Reusing old log /home/sahith/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fiverr.com_0.indexeddb.leveldb/000026.log 
+2023/01/23-17:07:30.690 1096 Delete type=0 #22
+2023/01/23-17:07:30.828 1097 Level-0 table #28: started
+2023/01/23-17:07:30.887 1097 Level-0 table #28: 316 bytes OK
+2023/01/23-17:07:30.949 1097 Delete type=0 #26
+2023/01/23-17:07:30.949 1097 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 145 : 1
+2023/01/23-17:07:30.949 1097 Compacting 2@0 + 1@1 files
+2023/01/23-17:07:31.020 1097 Generated table #29@0: 33 keys, 831 bytes
+2023/01/23-17:07:31.020 1097 Compacted 2@0 + 1@1 files => 831 bytes
+2023/01/23-17:07:31.065 1097 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/23-17:07:31.065 1097 Delete type=2 #28
+2023/01/23-17:07:31.066 1097 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 145 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/23-17:07:31.350 1096 Level-0 table #31: started
+2023/01/23-17:07:31.425 1096 Level-0 table #31: 672 bytes OK
+2023/01/23-17:07:31.449 1096 Delete type=2 #24
+2023/01/23-17:07:31.449 1096 Delete type=2 #26
+2023/01/23-17:07:31.449 1096 Delete type=0 #27
+2023/01/23-17:07:31.449 1096 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 167 : 1
+2023/01/23-17:07:31.450 1096 Compacting 1@0 + 1@1 files
+2023/01/23-17:07:31.476 1096 Generated table #32@0: 34 keys, 898 bytes
+2023/01/23-17:07:31.476 1096 Compacted 1@0 + 1@1 files => 898 bytes
+2023/01/23-17:07:31.499 1096 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/23-17:07:31.499 1096 Delete type=2 #31
+2023/01/23-17:07:31.499 1096 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 167 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/23-17:07:31.500 1096 Level-0 table #34: started
+2023/01/23-17:07:31.544 1096 Level-0 table #34: 306 bytes OK
+2023/01/23-17:07:31.690 1096 Delete type=0 #30
+2023/01/23-17:07:31.690 1096 Delete type=2 #29
+2023/01/23-17:07:31.691 1096 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 196 : 0
+2023/01/23-17:07:31.691 1096 Compacting 1@0 + 1@1 files
+2023/01/23-17:07:31.761 1096 Generated table #35@0: 32 keys, 822 bytes
+2023/01/23-17:07:31.761 1096 Compacted 1@0 + 1@1 files => 822 bytes
+2023/01/23-17:07:31.932 1096 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/01/23-17:07:31.932 1096 Delete type=2 #34
+2023/01/23-17:07:31.932 1096 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 196 : 0 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

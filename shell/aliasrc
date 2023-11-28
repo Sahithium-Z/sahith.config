@@ -38,7 +38,7 @@ alias \
 	sdn="doas -- shutdown -h now" \
 	e="$EDITOR" \
 	v="$EDITOR" \
-	p="paru --sudo doas --sudoflags --" \
+	p="paru" \
 	xi="doas -- xbps-install" \
 	xr="doas -- xbps-remove -R" \
 	xq="xbps-query" \
@@ -47,9 +47,10 @@ alias \
 	wg="wordgrinder" \
 	rc="reflex-curses" \
 	rpg="~/.local/bin/rpg-cli" \
+  wacom="sh ~/.config/wacom/config.sh"
 
 alias \
 	magit="nvim -c MagitOnly" \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/shell/zshnameddirrc" \
 	weath="curl wttr.in | less" \
-	sudo="doas --"
+	pu="paru -Syyu --ignore neovim --ignore xkeyboard-config --noconfirm" \

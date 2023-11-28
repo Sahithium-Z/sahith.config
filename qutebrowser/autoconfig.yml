@@ -55,17 +55,22 @@ settings:
     global: never
   content.blocking.enabled:
     '*://*.adfoc.us/*': false
+    '*://*.block.fiverr.com/*': false
     '*://*.bsd405-my.sharepoint.com/*': false
     '*://*.clever.discoveryeducation.com/*': false
     '*://*.culturedvultures.com/*': false
     '*://*.dailydot.com/*': false
+    '*://*.godotengine.org/*': false
     '*://*.hermatrix.net/*': false
+    '*://*.lichess.org/*': false
+    '*://*.my.act.org/*': false
     '*://*.namesakecomic.com/*': false
     '*://*.paranatural.net/*': false
     '*://*.pleated-jeans.com/*': false
     '*://*.questionablecontent.net/*': false
     '*://*.wormworldsaga.com/*': false
     '*://*.www.casualvillain.com/*': false
+    '*://*.www.coolmathgames.com/*': false
     '*://*.www.howtogeek.com/*': false
     '*://www.namesakecomic.com/*': false
     global: true
@@ -80,6 +85,7 @@ settings:
       Gecko) Chrome/74.0.3729.169 Safari/537.36
   content.media.audio_capture:
     https://asm.smartmusic.com: true
+    https://campk12.com: true
     https://teams.microsoft.com: true
     https://tuner.ninja: true
   content.media.audio_video_capture:
@@ -87,6 +93,7 @@ settings:
     https://play.upbeatmusicapp.com: true
     https://teams.microsoft.com: true
   content.media.video_capture:
+    https://campk12.com: true
     https://teams.microsoft.com: true
   content.notifications.enabled:
     https://app.wire.com: true
@@ -97,7 +104,9 @@ settings:
     https://www.reddit.com: false
     https://www.selfstudys.com: false
   content.register_protocol_handler:
+    https://mail.proton.me#mailto=%25s: false
     https://mail.protonmail.com?to=%25s: false
+    https://outlook.office.com?mailtouri=%25s: false
   content.webgl:
     global: false
   content.webrtc_ip_handling_policy:

@@ -1,0 +1,8 @@
+AudioStreamPlayer
+CollisionShape2D
+Node2D
+Area2D
+CollisionPolygon2D
+Sprite
+StaticBody2D
+TileMap

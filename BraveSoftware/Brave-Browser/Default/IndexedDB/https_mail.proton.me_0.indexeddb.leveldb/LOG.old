@@ -1,0 +1,15 @@
+2022/11/18-20:27:42.383 72ce Reusing MANIFEST /home/sahith/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/18-20:27:42.384 72ce Recovering log #4
+2022/11/18-20:27:42.384 72ce Reusing old log /home/sahith/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000004.log 
+2022/11/18-20:27:45.293 72ce Level-0 table #8: started
+2022/11/18-20:27:45.357 72ce Level-0 table #8: 576 bytes OK
+2022/11/18-20:27:45.467 72ce Delete type=0 #4
+2022/11/18-20:27:45.467 72ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/18-20:27:45.468 72ce Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01 \x00b\x00x\x006\x00s\x00p\x00x\x00a\x00o\x00s\x00s\x00e\x004\x00v\x00q\x005\x003\x00h\x00d\x00y\x00d\x00j\x00i\x00a\x00p\x00z\x00l\x00q\x00l\x00w\x00v\x00n\x00t' @ 65 : 1
+2022/11/18-20:27:45.468 72ce Compacting 1@1 + 1@2 files
+2022/11/18-20:27:45.560 72ce Generated table #9@1: 19 keys, 501 bytes
+2022/11/18-20:27:45.560 72ce Compacted 1@1 + 1@2 files => 501 bytes
+2022/11/18-20:27:45.749 72ce compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/18-20:27:45.749 72ce Delete type=2 #8
+2022/11/18-20:27:45.749 72ce Delete type=2 #5
+2022/11/18-20:27:45.750 72ce Manual compaction at level-1 from '\x00\x01\x01\x02\x01 \x00b\x00x\x006\x00s\x00p\x00x\x00a\x00o\x00s\x00s\x00e\x004\x00v\x00q\x005\x003\x00h\x00d\x00y\x00d\x00j\x00i\x00a\x00p\x00z\x00l\x00q\x00l\x00w\x00v\x00n\x00t' @ 65 : 1 .. (end); will stop at (end)

@@ -6,8 +6,7 @@
 
 	],
 	"disabled_features": [
-		"3d",
-		"asset_lib"
+		"3d"
 	],
 	"disabled_properties": [
 

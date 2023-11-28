@@ -1,0 +1,12 @@
+res://Main.gd
+res://Main.tscn
+res://Player.tscn
+res://Terrain_Gen/gen.gd
+res://default_env.tres
+res://testing.tscn
+res://tileset.tres
+res://ui/Control.tscn
+res://ui/Controls.gd
+res://ui/button.tres
+res://ui/font.tres
+res://ui/real_theme.tres

@@ -1,0 +1,10 @@
+RichTextLabel
+Camera2D
+Camera
+Area2D
+CollisionShape2D
+RayCast2D
+StaticBody2D
+Sprite
+KinematicBody2D
+KinematicBody

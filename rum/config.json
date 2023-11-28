@@ -1,0 +1,11 @@
+{
+  "data_path": "/home/sahith/.local/share/rum",
+  "library_paths": [
+    "/home/sahith/Games/rum"
+  ],
+  "terminal": "xterm",
+  "script_blacklist": [
+    "winetricks",
+    "rum.sh"
+  ]
+}

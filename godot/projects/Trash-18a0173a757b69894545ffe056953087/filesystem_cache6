@@ -1,0 +1,14 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1645563342
+default_env.tres::Environment::1645557977::0::1::::<><>::
+GrassBackground.png::StreamTexture::1644267669::1644267671::1::::<><>::
+icon.png::StreamTexture::1643303940::1643303949::1::::<><>::
+World.tscn::PackedScene::1645045818::0::1::::<><>::res://Player/Player.tscn<>res://GrassBackground.png<>res://Trash/Trash.tscn
+::res://Player/::1645557977
+Player.gd::GDScript::1645045818::0::1::::<>KinematicBody2D<>::
+Player.tscn::PackedScene::1645557977::0::1::::<><>::res://Player/smallblacksquare.png<>res://Player/Player.gd
+smallblacksquare.png::StreamTexture::1644173768::1644173933::1::::<><>::
+::res://Trash/::1645045867
+smallwhitesquare.png::StreamTexture::1644268328::1644268338::1::::<><>::
+Trash.gd::GDScript::1645045867::0::1::::<>StaticBody2D<>::
+Trash.tscn::PackedScene::1644874589::0::1::::<><>::res://Trash/smallwhitesquare.png<>res://Trash/Trash.gd

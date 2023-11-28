@@ -1,0 +1,25 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1666738210
+Death.gd::GDScript::1666677180::0::1::::<>Control<>::
+default_env.tres::Environment::1666676068::0::1::::<><>::
+icon.png::StreamTexture::1665115143::1666543526::1::::<><>::
+Main.gd::GDScript::1666677180::0::1::::<>Node2D<>::res://Zombie.tscn
+Main.tscn::PackedScene::1666677180::0::1::::<><>::res://Player/Player.tscn<>res://World/ActualBackground.png<>res://World/Tile3.tscn<>res://Zombie.tscn<>res://Main.gd<>res://World/Overworld (1).mp3<>res://UI/Death.tscn
+Stats.gd::GDScript::1666677180::0::1::::<>Node<>::
+Stats.tscn::PackedScene::1666677180::0::1::::<><>::res://Stats.gd
+Zombie.gd::GDScript::1666677180::0::1::::<>KinematicBody2D<>::
+Zombie.tscn::PackedScene::1666677180::0::1::::<><>::res://Player/characters_packed.png<>res://Zombie.gd<>res://Hitbox/Hurtbox.tscn<>res://Hitbox/Hitbox.tscn
+::res://Hitbox/::1666677180
+Hitbox.tscn::PackedScene::1666677180::0::1::::<><>::
+Hurtbox.tscn::PackedScene::1666677180::0::1::::<><>::
+::res://Player/::1666677180
+characters_packed.png::StreamTexture::1666677180::1666677180::1::::<><>::
+Player.gd::GDScript::1666677180::0::1::::<>KinematicBody2D<>::
+Player.tscn::PackedScene::1666677180::0::1::::<><>::res://Player/characters_packed.png<>res://Player/Player.gd<>res://Hitbox/Hitbox.tscn<>res://Hitbox/Hurtbox.tscn
+::res://UI/::1666677180
+Death.tscn::PackedScene::1666677180::0::1::::<><>::res://Death.gd<>res://World/blacksmall.png
+::res://World/::1666677180
+ActualBackground.png::StreamTexture::1666479065::1666677180::1::::<><>::
+blacksmall.png::StreamTexture::1666677180::1666677180::1::::<><>::
+Overworld (1).mp3::AudioStreamMP3::1666677180::1666677180::1::::<><>::
+Tile3.tscn::PackedScene::1666677180::0::1::::<><>::res://World/blacksmall.png

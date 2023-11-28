@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="Zoom" shortcut="`" removed="true">
+            <param name="percentage" value="50" />
+        </key>
+    </commands>
+    <tools />
+    <quicktools>
+        <key tool="lasso" shortcut="7" removed="true" />
+        <key tool="eraser" shortcut="Shift" removed="true" />
+        <key tool="eraser" shortcut="`" removed="true" />
+        <key tool="eraser" shortcut="&apos;" removed="true" />
+        <key tool="eraser" shortcut="Y" />
+        <key tool="zoom" shortcut="8" />
+        <key tool="rectangular_marquee" shortcut="7" />
+    </quicktools>
+    <actions />
+    <wheel />
+</keyboard>

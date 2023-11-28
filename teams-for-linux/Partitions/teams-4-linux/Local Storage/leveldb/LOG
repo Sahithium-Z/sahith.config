@@ -1,0 +1,18 @@
+2023/06/12-21:16:01.355 5a19 Reusing MANIFEST /home/sahith/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2023/06/12-21:16:01.382 5a19 Recovering log #415
+2023/06/12-21:16:01.498 5a19 Reusing old log /home/sahith/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/000415.log 
+2023/06/12-21:18:03.563 5a19 Level-0 table #419: started
+2023/06/12-21:18:03.656 5a19 Level-0 table #419: 388025 bytes OK
+2023/06/12-21:18:03.798 5a19 Delete type=0 #415
+2023/06/12-21:18:03.798 5a19 Compacting 4@0 + 1@1 files
+2023/06/12-21:18:04.253 5a19 Generated table #420@0: 4420 keys, 1639431 bytes
+2023/06/12-21:18:04.253 5a19 Compacted 4@0 + 1@1 files => 1639431 bytes
+2023/06/12-21:18:04.326 5a19 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/12-21:18:04.327 5a19 Delete type=2 #412
+2023/06/12-21:18:04.327 5a19 Delete type=2 #419
+2023/06/12-21:18:04.327 5a19 Delete type=2 #414
+2023/06/12-21:18:04.327 5a19 Delete type=2 #410
+2023/06/12-21:18:04.327 5a19 Delete type=2 #416
+2023/06/12-22:05:17.363 8795 Level-0 table #422: started
+2023/06/12-22:05:17.412 8795 Level-0 table #422: 36029 bytes OK
+2023/06/12-22:05:17.481 8795 Delete type=0 #418

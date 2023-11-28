@@ -170,6 +170,10 @@ config.set('content.blocking.enabled', False, '*://*.www.howtogeek.com/*')
 # Type: Bool
 config.set('content.blocking.enabled', False, '*://www.namesakecomic.com/*')
 
+# Enable the ad/host blocker
+# Type: Bool
+config.set('content.blocking.enabled', False, '*://www.fiverr.com/*')
+
 # Load images automatically in web pages.
 # Type: Bool
 config.set('content.images', True, 'chrome-devtools://*')
@@ -327,7 +331,7 @@ c.url.default_page = 'about:blank'
 # the search engine name to the search term, e.g. `:open google
 # qutebrowser`.
 # Type: Dict
-c.url.searchengines = {'DEFAULT': 'https://www.searchscene.com/search?q={}'}
+c.url.searchengines = {'DEFAULT': 'https://www.ecosia.org/search?q={}'}
 
 # Page(s) to open at the start.
 # Type: List of FuzzyUrl, or FuzzyUrl
@@ -389,6 +393,8 @@ config.bind('x', 'tab-close')
 config.bind('yf', 'hint links yank')
 config.bind('R', 'spawn --userscript readability-js')
 config.bind(';a', 'hint links userscript readability-js')
+config.bind('cf', 'hint links fill :open {hint-url}')
+config.bind('cF', 'hint links fill :open -t {hint-url}')
 
 #Dracula Theme
 #import dracula.draw

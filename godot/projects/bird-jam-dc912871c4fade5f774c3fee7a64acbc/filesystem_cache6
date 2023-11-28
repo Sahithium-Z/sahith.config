@@ -1,0 +1,37 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1669877304
+birb player.png::StreamTexture::1669694932::1669694932::1::::<><>::
+characters_packed.png::StreamTexture::1669694932::1669694932::1::::<><>::
+default_env.tres::Environment::1669876892::0::1::::<><>::
+Door.gd::GDScript::1669876567::0::1::::<>Area2D<>::
+Door.tscn::PackedScene::1669877293::0::1::::<><>::res://Door.gd<>res://portal.png
+icon.png::StreamTexture::1668194519::1669694932::1::::<><>::
+Player.gd::GDScript::1669876567::0::1::::Player<>KinematicBody2D<>::
+Player.tscn::PackedScene::1669876567::0::1::::<><>::res://PlayerHuman.tres<>res://Player.gd
+PlayerBird.tres::SpriteFrames::1669694932::0::1::::<><>::res://birb player.png
+PlayerGreenSkin.tres::SpriteFrames::1669694932::0::1::::<><>::res://characters_packed.png
+PlayerHuman.tres::SpriteFrames::1669694932::0::1::::<><>::res://birb player.png
+portal.png::StreamTexture::1669877293::1669877293::1::::<><>::
+seed sheet.png::StreamTexture::1669876567::1669876567::1::::<><>::
+Seeds.gd::GDScript::1669876567::0::1::::<>Area2D<>::
+Seeds.tscn::PackedScene::1669877293::0::1::::<><>::res://seed sheet.png<>res://Seeds.gd
+Spike.gd::GDScript::1669876567::0::1::::<>Area2D<>::
+spike.png::StreamTexture::1669876567::1669876567::1::::<><>::
+Spike.tscn::PackedScene::1669876567::0::1::::<><>::res://spike.png<>res://Spike.gd
+TileMap.tscn::PackedScene::1669700671::0::1::::<><>::res://tiles_packed.png
+tiles_packed.png::StreamTexture::1669694932::1669694932::1::::<><>::
+World.tscn::PackedScene::1669876567::0::1::::<><>::res://Player.tscn<>res://TileMap.tscn
+::res://Levels/::1669877293
+Level1.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Spike.tscn<>res://Door.tscn
+Level2.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Spike.tscn<>res://Door.tscn
+Level3.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Spike.tscn<>res://Seeds.tscn<>res://Door.tscn
+Level4.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Spike.tscn<>res://Seeds.tscn<>res://Door.tscn
+Level5.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Spike.tscn<>res://Door.tscn<>res://Seeds.tscn
+Level.gd::GDScript::1669876567::0::1::::<>Node2D<>::
+Level.tscn::PackedScene::1669876567::0::1::::<><>::res://Levels/Level.gd<>res://Player.tscn<>res://World/tileset.png
+LevelEnd.tscn::PackedScene::1669877293::0::1::::<><>::res://Levels/Level.tscn<>res://Seeds.tscn
+::res://World/::1669876567
+tileset.png::StreamTexture::1669876567::1669876567::1::::<><>::
+::res://music/::1669876567
+Ballad of Birdbrain.mp3::AudioStreamMP3::1669876567::1669876567::1::::<><>::
+MusicPlayer.tscn::PackedScene::1669876567::0::1::::<><>::res://music/Ballad of Birdbrain.mp3

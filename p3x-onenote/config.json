@@ -1,0 +1,13 @@
+{
+	"lang": "en-US",
+	"darkThemeInvert": false,
+	"disable-hide": true,
+	"option-to-hide-menu": false,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://www.onenote.com/notebooks?auth=2&nf=1#",
+		"proxy": ""
+	}
+}

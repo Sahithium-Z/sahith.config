@@ -1,0 +1,6 @@
+2023/03/26-06:36:39.505 cc6f Creating DB /home/sahith/.config/teams-for-linux/Partitions/teams-4-linux/IndexedDB/https_usc-powerpoint.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2023/03/26-06:36:39.624 cc6f Reusing MANIFEST /home/sahith/.config/teams-for-linux/Partitions/teams-4-linux/IndexedDB/https_usc-powerpoint.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/26-06:51:06.070 cbea Level-0 table #5: started
+2023/03/26-06:51:06.095 cbea Level-0 table #5: 1349 bytes OK
+2023/03/26-06:51:06.129 cbea Delete type=0 #3
+2023/03/26-06:51:06.129 cbea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

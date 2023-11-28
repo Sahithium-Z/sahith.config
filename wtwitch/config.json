@@ -1,0 +1,14 @@
+{
+  "player": "mpv",
+  "quality": "720p",
+  "colors": "true",
+  "printOfflineSubscriptions": "true",
+  "subscriptions": [
+    {
+      "streamer": "pokemon"
+    }
+  ],
+  "apiToken": "9leu6eacbsoltujvd92f5vg3izsxav",
+  "apiTokenExpiry": "1676959713",
+  "lastSubscriptionUpdate": "null"
+}
